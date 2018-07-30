@@ -12,7 +12,7 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
 
 Sample papers from: XXXX - Today's Date
 
-Data Collection Methods
+Data Collection Methods - Types of Tasks
 
 - surveys (administered in various forms)
   - interview
@@ -27,5 +27,5 @@ Data Collection Methods
   - verbal response
   - eye gaze
 - video
- - 
+
 
