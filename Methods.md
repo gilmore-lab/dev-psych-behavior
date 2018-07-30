@@ -26,5 +26,6 @@ Data Collection Methods
   - button presses (e.g. keyboard, button box, game controller)
   - verbal response
   - eye gaze
-
+- video
+ - 
 
