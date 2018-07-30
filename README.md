@@ -1,5 +1,5 @@
 # dev-psych-behavior
-Behaviors studies in developmental psychology - Journal Study
+Behaviors studied in developmental psychology - Journal Study
 
 
 Question: What are the sets of behaviors studied in developmental psychology?
