@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
             - Infant Behavior and Development
         - How to analyze papers and studies
             - Contexts
-                - lab, home, school
+                - lab, home, school, museum
             - Displays, environments
                 - computer, lab task
             - Measures

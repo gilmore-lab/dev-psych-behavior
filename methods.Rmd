@@ -43,7 +43,11 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
 - click on 'View PDF' for the journal article you want to read
 - This .pdf will open in a new tab
 
-- Read the journal article and copy/paste relevant parts of the methods section that describe any measures/tasks used for the study.
+### Read the journal article and copy/paste relevant parts of the methods section that describe any measures/tasks used for the study.
+
+### Close the .pdf of the journal article
+
+### Go back to 'In the Journal Article Tab'
 
 
 
