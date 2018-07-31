@@ -1,0 +1,121 @@
+---
+title: "child_development"
+author: "Rick Gilmore & Andrea Seisler"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Volume 89, Issue 4
+
+### Kampouri, M., Kyriklaki, A., Roumeliotaki, T., Koutra, K., Anousaki, D., Sarri, K., Vassilaki, M., et al. (2018). Patterns of Early-Life Social and Environmental Exposures and Child Cognitive Development, Rhea Birth Cohort, Crete, Greece. Child development, 89(4), 1063–1073. Retrieved from http://dx.doi.org/10.1111/cdev.12782
+
+Parental and child sociodemographic characteristics
+were collected through questionnaires administered
+by interviewers. 
+
+Children’s cognitive and motor development at
+4 years was assessed through the McCarthy Scales
+of Children’s Abilities (MSCA; MacCarthy, 1972). In person
+
+Information on children’s ADHD difficulties was
+gathered through the ADHD test (ADHDT; Gilliam,
+1995), which was completed by the participants’
+mothers.
+
+### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from http://dx.doi.org/10.1111/cdev.12791
+
+We utilized data from a longitudinal study on student
+achievement and cognitive ability conducted
+in Berlin, Germany from the beginning of the
+school year 2008–2009 until the end of school year
+2009–2010. 
+
+We used data from the pretest and the
+posttest (cognitive abilities and student achievement),
+as well as the second testing session (IE) that
+took place on average 41 days after the pretest
+(SD = 6.24). 
+
+We
+used an 18-item measure of IE (see Wilhelm et al.,
+2003 for details). Students rated these items on a 6-
+point scale ranging from 1 (do not agree at all) to 6
+
+Fluid and crystallized intelligence were measured
+at pretest and posttest with the Berlin Test of
+Fluid and Crystallized Intelligence (BEFKI; Wilhelm,
+Schroeders, & Schipolowski, 2014). Fluid
+intelligence was measured with three subtests for
+figural, verbal, and numeric content (16 items each).
+
+Mathematics
+achievement was measured by two tests of the
+domains “number” and “functional relations.”
+German achievement was measured by two tests
+of reading and listening comprehension
+
+We used data on school grades in the subjects
+German and mathematics that were
+obtained at pretest and posttest, and recoded so
+that higher values indicated better grades.
+
+### Ansari, A., & Purtell, K. M. (2018). Absenteeism in Head Start and Children’s Academic Learning. Child development, 89(4), 1088–1098. Retrieved from http://dx.doi.org/10.1111/cdev.12800
+
+The Family and Child Experiences Survey (FACES)  
+
+we focus on the first two waves of
+data collection (Fall 2009 and Spring 2010), as these
+waves capture the Head Start year. 
+
+During the spring of 2010, parents were asked,
+“Approximately how many days has [CHILD]
+been absent since the beginning of the school
+year?” 
+
+First, children’s language skills were measured using
+the Peabody Picture Vocabulary Test (Dunn &
+Dunn, 1997; Fall a = .97 and Spring a = .95).
+
+ Next, two subscales from the Woodcock–
+Johnson (Woodcock, McGrew, & Mather, 2001), the
+Letter Word Identification (Fall 2009: a = .85 and
+Spring 2010: a = .83) and Spelling Word (Fall 2009:
+a = .79 and Spring 2010: a = .83), were administered
+to children to capture their literacy skills.
+
+ Finally, children’s math
+skills were directly assessed with the Woodcock–
+Johnson Applied Problems subscale et al., 2001; Fall 2009: a = .87 and Spring 2010:
+a = .89).
+
+During the spring of 2010, all Head Start classrooms
+were observed and rated on the Classroom
+Assessment Scoring System (CLASS; Pianta, La
+Paro, & Hamre, 2008).
+
+
+### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from http://dx.doi.org/10.1111/cdev.13124
+
+video-recorded observational assessment of parent–
+child interaction and an audio-recorded standardized
+interview that lasted approximately 1.5 hr.
+
+A free play task was used to obtain an observational
+assessment of mother–infant and father–infant
+interaction. Each parent was instructed to play
+with the infant for 10 min in whatever manner and
+using whichever toys, they used when they usually
+played together. The session was video recorded
+and coded using the fourth edition of the Emotional
+Availability (EA) Scales (Biringen, 2008). EA refers
+to the capacity of a dyad to share an emotionally
+healthy relationship 
+
+Mothers and fathers were interviewed separately
+using an adaptation of the Parent Development
+Interview (PDI
+

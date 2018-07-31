@@ -1,0 +1,51 @@
+---
+title: "methods"
+author: "Andrea Seisler"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+What are the methods to be used when sampling and categorizing papers?
+
+Keywords: developmental psychology, behavioural research
+
+Which Journals are relevant? Check out here: https://www.scimagojr.com/journalrank.php?category=3204
+
+  - [**Child Development**](https://onlinelibrary.wiley.com/journal/14678624)
+  - [Developmental Psychology](http://www.apa.org/pubs/journals/dev/index.aspx)
+  - [**Developmental Science**](https://onlinelibrary.wiley.com/journal/14677687)
+  - [Journal of Experimental Child Psychology (JECP)](https://www.journals.elsevier.com/journal-of-experimental-child-psychology)
+  - [**Infancy**](https://onlinelibrary.wiley.com/journal/15327078)
+  - [Infant Behavior and Development](https://www.journals.elsevier.com/infant-behavior-and-development)
+  
+  - [Developmental Review](https://www.sciencedirect.com/journal/developmental-review)
+
+ 
+
+Sample papers from: XXXX - Today's Date
+
+Data Collection Methods - Types of Tasks
+- Contexts
+  - lab
+  - home
+  - school
+- Displays, environments
+  - computer
+  - lab task
+- Measures
+  - video, eye tracking, keyboard, mouse, EEG, survey, observational ratings
+- surveys (administered in various forms)
+  - interview
+  - paper
+  - computer
+- imaging
+  - EEG
+  - MRI
+- response type
+  - mouse
+  - button presses (e.g. keyboard, button box, game controller)
+  - verbal response
+  - eye gaze
+- video
+
+
