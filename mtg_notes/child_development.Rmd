@@ -1,0 +1,36 @@
+---
+title: "child_development"
+author: "Rick Gilmore & Andrea Seisler"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Volume 89, Issue 4
+
+### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from http://dx.doi.org/10.1111/cdev.13124
+
+video-recorded observational assessment of parent–
+child interaction and an audio-recorded standardized
+interview that lasted approximately 1.5 hr.
+
+A free play task was used to obtain an observational
+assessment of mother–infant and father–infant
+interaction. Each parent was instructed to play
+with the infant for 10 min in whatever manner and
+using whichever toys, they used when they usually
+played together. The session was video recorded
+and coded using the fourth edition of the Emotional
+Availability (EA) Scales (Biringen, 2008). EA refers
+to the capacity of a dyad to share an emotionally
+healthy relationship 
+
+Mothers and fathers were interviewed separately
+using an adaptation of the Parent Development
+Interview (PDI
+
+### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from http://dx.doi.org/10.1111/cdev.12791
+

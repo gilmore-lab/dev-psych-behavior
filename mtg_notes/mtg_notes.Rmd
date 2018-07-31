@@ -1,0 +1,40 @@
+---
+title: "meeting_notes"
+author: "Rick Gilmore & Andrea Seisler"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 2018-07-31
+
+- Who
+    - Rick and Andrea
+- Reports
+    - GitHub project
+    - Asana tasks
+        - AS creating subtasks for Developmental, then clone to other areas
+- Action items
+    - AS send ROG Asana invite to ROG's work gmail account.
+    - AS drafting protocol
+        - How select journals
+            - **Child Development**
+            - Developmental Psychology
+            - **Developmental Science**
+            - Journal of Experimental Child Psychology (JECP)
+            - **Infancy**
+            - Infant Behavior and Development
+        - How to analyze papers and studies
+            - Contexts
+                - lab, home, school
+            - Displays, environments
+                - computer, lab task
+            - Measures
+                - video, eye tracking, keyboard, mouse, EEG, survey, observational ratings
+            - How collected
+        - How to code relevant data
+    - ROG read paper
+    - AS start piloting scheme on articles from most recent issue of the highlighted journals.
