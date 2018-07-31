@@ -20,7 +20,38 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
   
   - [Developmental Review](https://www.sciencedirect.com/journal/developmental-review)
 
- 
+
+## How to code a paper
+
+- Log into the Gilmore Lab Chrome Account
+- Open Paperpile in a new tab
+- Open the journal website in another tab
+
+#### In the Journal Article Tab
+- Click on the link to the journal article
+- Choose the paperpile icon from the upper right hand cornder of the chrome window
+- Select 'OK'
+
+#### In the Paperpile Tab
+- Go to the paperpile tab
+- Click on the Article just saved
+- Choose Cite > Citation from the menu bar at the top of the screen
+
+### In journal.Rmd
+- Paste the citation
+
+### In the Paperpile Tab
+- click on 'View PDF' for the journal article you want to read
+- This .pdf will open in a new tab
+
+- Read the journal article and copy/paste relevant parts of the methods section that describe any measures/tasks used for the study.
+
+
+
+
+
+
+
 
 Sample papers from: XXXX - Today's Date
 
