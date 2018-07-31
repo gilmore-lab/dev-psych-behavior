@@ -30,15 +30,14 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
 #### In the Journal Article Tab
 - Click on the link to the journal article
 - Choose the paperpile icon from the upper right hand cornder of the chrome window
-- Select 'OK'
+- Select 'Add to Paperpile'
+- Select 'View in Paperpile'
 
 #### In the Paperpile Tab
-- Go to the paperpile tab
-- Click on the Article just saved
-- Choose Cite > Citation from the menu bar at the top of the screen
+- Choose Cite > Citation from the menu bar at the top of the screen to copy the citation
 
 ### In journal.Rmd
-- Paste the citation
+- Paste the citation (CMD+P)
 
 ### In the Paperpile Tab
 - click on 'View PDF' for the journal article you want to read
