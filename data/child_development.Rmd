@@ -282,10 +282,120 @@ the Free Rice Game.
 
 ### Coe, J. L., Davies, P. T., & Sturge-Apple, M. L. (2018). Family Instability and Young Children’s School Adjustment: Callousness and Negative Internal Representations as Mediators. Child development, 89(4), 1193–1208. Retrieved from http://dx.doi.org/10.1111/cdev.12793
 
+Participants included 243 families (mother, intimate
+partner, and preschool child)
+
+The longitudinal design consisted of three annual
+measurement occasions
 
 
+At Wave 1, mothers completed the Family Instability
+Questionnaire 
 
+maternal report at
+Waves 1 and 2 on the Callousness scale of the
+Inventory of Callous-Unemotional Traits
 
+At Waves 1 and 2, children completed a revised
+version of the MacArthur Story Stem Battery
+(MSSB-R; Cummings et al., 2008). The MSSB-R consists
+of a series of story stems indexing conflicts
+and adversity in each of three family relationship
+subsystems: (a) mother–father (i.e., two stories:
+angry parental conflicts over losing keys and getting
+home later than expected), (b) mother–child
+(i.e., two stories: reunion following extensive separation,
+child injury after violating maternal instructions),
+and (c) father–child (i.e., two stories: reunion
+following extensive separation, child injury after
+violating paternal instructions). In depicting the
+story stems, experimenters used animated voices,
+various toy props, and action figures depicting
+Family Instability and School Adjustment 1197
+family members. After each story stem, children
+completed the stories with the action figures, props,
+and, when necessary, probes to maximize the richness
+of the narrative responses. - Coders assessed each of the six stories along two
+scales ranging from 1 (negligible) to 7 (high)
+
+Teacher reports on three scales from the
+MacArthur Health and Behavior Questionnaire
+(HBQ; Ablow et al., 1999) were used as indicators of
+a latent construct of children’s school adjustment at
+Waves 1 and 3.
+
+### Borriello, G. A., & Liben, L. S. (2018). Encouraging Maternal Guidance of Preschoolers’ Spatial Thinking During Block Play. Child development, 89(4), 1209–1222. Retrieved from http://dx.doi.org/10.1111/cdev.12779
+
+We recruited 46 mothers and their preschool
+children
+
+Jigsaw Play
+Dyads were then given two simple five-piece
+wooden frame jigsaw puzzles (see Figure 1) and
+asked to play together as they would normally play
+at home
+
+Some received specific instructions and some did not
+
+LEGO Free Play
+Dyads in both groups were then given 5 min to
+play with a collection of about 150 LEGO pieces.
+
+LEGO Construction
+Mothers were given a booklet that showed 10
+target LEGO structures and told that they would
+have 10 min to play together with their child to
+build as many of the structures as they could.
+
+Spatial language was coded from transcripts of
+the play sessions; all other behaviors were coded
+from videotaped recordings.
+
+### Golombok, S., Blake, L., Slutsky, J., Raffanello, E., Roman, G. D., & Ehrhardt, A. (2018). Parenting and the Adjustment of Children Born to Gay Fathers Through Surrogacy. Child development, 89(4), 1223–1233. Retrieved from http://dx.doi.org/10.1111/cdev.12728
+
+The majority of families were assessed at home.
+However, 35% of gay father families and 42% of
+lesbian mother families were assessed by Skype
+because of the geographical distance from the
+researchers. 
+
+Quality of Parenting
+Each parent was interviewed using an adaptation
+of a semistructured interview designed to
+assess quality of parenting that has been validated
+against observational 
+
+Parent–Child Interaction
+Within each family, each parent–child dyad participated
+in an observational assessment of parent–
+child interaction. 
+  In order to avoid practice effects,
+the Etch-A-Sketch task (Stevenson-Hinde & Shouldice,
+1995) was used with the parent who spent
+most time with the child, 
+  and the Co-Construction task (Steele et al., 2007) was used with the other parent
+
+Perceived Stigma
+Perceived stigma was measured using the personalized
+stigma subscale of a measure originally
+developed by Berger, Ferrans, and Lashley (2001) to
+assess HIV-related stigma and later modified for
+the assessment of stigma associated with being gay
+
+Children’s Adjustment
+The presence of children’s emotional and behavioral
+difficulties was assessed with the Strengths
+and Difficulties Questionnaire (SDQ; Goodman,
+1994, 1997) administered to each parent to produce
+total scores of internalizing problems and externalizing
+problems 
+
+The children’s externalizing and internalizing
+problems were also assessed during the interview
+with the parent who spent most time with the child
+or a parent selected at random in the families in
+which parenting was shared equally using a standardized
+procedure
 
 
 
