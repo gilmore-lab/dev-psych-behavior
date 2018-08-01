@@ -562,6 +562,171 @@ Parents and
 children took part in a session lasting up to
 90 min in an observation laboratory at each university. 
 
+Children’s False Belief Understanding
+The children completed four tasks designed to
+measure individual differences in false belief understanding.
+
+Children’s Language Ability
+the Bus Story Test (Renfrew, 1997; Stokes & Wong,
+1996).
+
+Children’s Nonverbal Ability
+To provide an index of nonverbal ability, the
+children in both sites completed the object assembly
+task from the Wechsler Preschool and Primary Scale
+of Intelligence (Wechsler, 2003). In this task, participants
+were required to assemble a set of twodimensional
+puzzles depicting cartoon images of
+objects (e.g., bird, clock, car, fish). 
+
+Parental Mind-Mindedness
+Consistent with previous studies of preschoolaged
+children, we used a brief interview to obtain a
+representational measure of parental mind-mindedness
+(Meins & Fernyhough, 2015). Parents’ responses were recorded using a digital
+recording device and later transcribed verbatim.
+
+### Legette, K. (2018). School Tracking and Youth Self-Perceptions: Implications for Academic and Racial Identity. Child development, 89(4), 1311–1327. Retrieved from http://dx.doi.org/10.1111/cdev.12748
+
+7th graders
+
+Parents were given the option to
+have their children interviewed at school, their
+home, or the university near the middle school.
+Most interviews lasted an hour and occurred at
+participants’ homes, with a few taking place at the
+middle school after school
+
+Interviews were audio recorded, transcribed,
+and uploaded into NVIVO, a qualitative software
+program used for data management, coding, and
+analyses
+
+### Gardner-Neblett, N., & Sideris, J. (2018). Different Tales: The Role of Gender in the Oral Narrative-Reading Link Among African American Children. Child development, 89(4), 1328–1342. Retrieved from http://dx.doi.org/10.1111/cdev.12803
+
+Preschool Oral Narrative Skill
+Children’s oral narratives were measured when
+children were 48 months old using a story generation
+task with a wordless book as a prop. Children were prompted by a researcher to look
+at the pictures and tell a story after looking through the book.
+
+Narratives were audio recorded and transcribed for scoring.
+
+Reading Comprehension
+The Woodcock–Johnson Psycho-Educational Battery–Revised
+(WJ–R; Woodcock & Johnson, 1989)
+was administered during laboratory visits to assess
+children’s reading comprehension.  The current study used
+the passage comprehension subtest to measure children’s
+reading comprehension each year from first
+to sixth grades.
+
+Quality of the home environment. The quality of the home environment
+was measured using the Home Observation for
+Oral Narratives and Reading Achievement 1333
+Measurement of the Environment (HOME; Caldwell
+& Bradley, 1984) The
+HOME is a 45-item semistructured observation and
+interview with six subscales: emotional and verbal
+responsiveness of the parent, acceptance of the
+child’s behavior, organization of the environment,
+provision of appropriate play materials, maternal
+involvement with the child, and variety in daily
+experience
+
+Maternal education
+ The level of mother’s education
+was measured as a continuous variable of the number
+of years of education at study entry
+
+Decoding skill. Children’s decoding skills were
+used as a covariate to account for the association
+between decoding and reading skills (Reese, Suggate,
+et al., 2010). To measure children’s decoding
+skills, the letter–word identification subtest of the
+WJ–R (Woodcock & Johnson, 1989) was used
+
+### Jambon, M., & Smetana, J. G. (2018). Individual Differences in Prototypical Moral and Conventional Judgments and Children’s Proactive and Reactive Aggression. Child development, 89(4), 1343–1359. Retrieved from http://dx.doi.org/10.1111/cdev.12757
+
+structured interviews were conducted to
+assess children’s moral and conventional judgments.
+Interview scripts and all visual stimuli are
+included in Appendix S1.
+
+Story Stimuli
+Children were presented with four hypothetical
+vignettes depicting everyday moral and conventional
+transgressions (two each). Each vignette presentation consisted of four story
+pictures: rule introduction, actor goal, transgression,
+and outcome
+
+Initial Judgments
+After each transgression, children’s initial judgments
+of the act’s acceptability were assessed
+
+Reactive Aggression
+Teachers reported on children’s reactive aggression
+using six items from the physical and relational
+subscales of the Preschool Proactive and Reactive
+Aggression–Teacher Report (PPRA–T; Ostrov &
+Crick, 2007). I
+
+Proactive Aggression
+Teachers also completed proactive subscales
+from the PPRA–T.
+
+Participating children were interviewed
+individually in a separate area of their
+school or day care. Most teachers (14 of 18) completed
+online surveys regarding children’s behavior;
+the rest completed paper surveys.
+Child interviews were conducted on an iPad
+using the online survey software SurveyGizmo. This
+allowed for an interactive experience where children
+were able to point and choose different
+answer responses 
+
+### Ferguson, G. M., Muzaffar, H., Iturbide, M. I., Chu, H., & Meeks Gardner, J. (2018). Feel American, Watch American, Eat American? Remote Acculturation, TV, and Nutrition Among Adolescent-Mother Dyads in Jamaica. Child development, 89(4), 1360–1377. Retrieved from http://dx.doi.org/10.1111/cdev.12808
+
+Only adolescents who returned a signed parental
+consent form, a completed mother questionnaire,
+and completed an assent form were given a
+student questionnaire to complete in designated
+rooms after school.
+
+Behavioral preferences. For brevity, a three-item
+version of the original nine-item European American
+orientation (sub)scale from the Acculturation
+Rating Scale Jamaican Americans was used (ARSJA;
+Ferguson, Bornstein, & Pottinger, 2012).
+
+Identity. An adapted version of the four-item
+American Identity subscale of the Language, Identity
+and Behavioral Acculturation Scale (aadolescent =
+.88, amother = .78; Birman & Trickett, 2001) was
+used. 
+
+U.S.-Produced Cable TV Consumption
+Using two items adapted from the HABITS questionnaire
+(Wright et al., 2011), participants reported
+the daily time spent watching U.S.-produced cable
+TV on a typical weekday and on a weekend in the
+past month
+
+Unhealthy Eating
+Four items were adapted from the national
+Jamaican Youth Risk and Resiliency Behaviour Survey
+2006 (aadolescent = .53, amother = .57; Wilks et al.,
+2007) on which participants rated the frequency of
+eating four categories of unhealthy foods regardless
+of the setting in which it was consumed: soda/
+sweetened drinks, pastries, fried meats, and fast
+food
+
+### Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the Transfer Deficit: Contextual Mismatch, Proactive Interference, and Working Memory Affect Toddlers’ Video-Based Transfer. Child development, 89(4), 1378–1393. Retrieved from http://dx.doi.org/10.1111/cdev.12810
+
+
+
 
 
 
