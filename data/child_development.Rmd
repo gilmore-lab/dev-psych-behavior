@@ -397,6 +397,175 @@ or a parent selected at random in the families in
 which parenting was shared equally using a standardized
 procedure
 
+### Steinsbekk, S., Barker, E. D., Llewellyn, C., Fildes, A., & Wichstrøm, L. (2018). Emotional Feeding and Emotional Eating: Reciprocal Processes and the Influence of Negative Affectivity. Child development, 89(4), 1234–1246. Retrieved from http://dx.doi.org/10.1111/cdev.12756
+
+All children of the 2003 and 2004 birth cohorts
+(n = 3,456) and their parents living in Trondheim,
+Norway
+
+complete a brief measure of
+emotional behavioral problems, the Strengths and
+Difficulties Questionnaire (SDQ; Goodman, 1997;
+Sveen, Berg-Nielsen, Lydersen, & Wichstrom, 2013)
+version 4-16
+
+study location: well-child clinic for the routine health
+check at age 4 years,
+
+Emotional Eating
+Emotional eating was measured using the emotional
+overeating subscale of the Norwegian version
+of Wardle et al.’s (2001) Children’s Eating Behaviour
+Questionnaire (CEBQ). 
+
+Parent’s Emotional Feeding
+Parent’s emotional feeding was assessed using
+The Parent Feeding Style Questionnaire (PFSQ;
+Wardle, Sanderson, Guthrie, Rapoport, & Plomin,
+2002)
+
+Negative Affectivity
+Negative affectivity was measured at age 4 by
+the Children’s Behavior Questionnaire (Rothbart
+et al., 2001). Negative affectivity is one of the three
+broad dimensions of temperament captured by the
+195-item parent-reported questionnaire 
+
+Children’s Weight
+Weight and height were measured
+by the health care nurse - used to calculate BMI
+
+### Swingley, D., & Humphrey, C. (2018). Quantitative Linguistic Predictors of Infants’ Learning of Specific English Words. Child development, 89(4), 1247–1267. Retrieved from http://dx.doi.org/10.1111/cdev.12731
+
+Corpus materials were downloaded from the
+CHILDES repository
+
+recordings and transcripts for 8 children
+
+#### Juvonen, J., Kogachi, K., & Graham, S. (2018). When and How Do Students Benefit From Ethnic Diversity in Middle School? Child development, 89(4), 1268–1282. Retrieved from http://dx.doi.org/10.1111/cdev.12834
+
+Participants were drawn from a larger sample of
+5,991 sixth-grade students 
+
+School ethnic diversity. School ethnic diversity
+was measured based on school-level ethnicity data
+collected from the CDE and using Simpson’s (1949)
+diversity index:
+
+Proportion same-ethnic peers in school. To be
+able to take into account the size of participants’
+ethnic group, we relied on school-level race/ethnicity
+data from the CDE Web site.
+
+Parent education. As a proxy for student SES,
+the parent or guardian with whom the student
+lived was asked to complete a measure indicating
+their highest level of education
+
+Teacher-rated academic engagement. The extent
+to which students are engaged in their academic
+classes may be related to feelings of social vulnerability
+(Juvonen et al., 2006). We therefore controlled
+for teacher ratings of students’ engagement in one
+of their classes. For each participant, we recruited
+one sixth-grade teacher, who rated that student on
+the five-item Teacher Report of Engagement Questionnaire
+(Wellborn & Connell, 1991).
+
+Perceived school safety. The six-item school
+safety subscale from the Effective School Battery
+(Gottfredson, 1986) was used to assess how safe
+students felt in school.
+
+Self-perceived peer victimization. Perceptions of
+personal experiences of victimization by peers were
+measured using a modified four-item version of the
+Peer Victimization Survey
+
+Loneliness. Relying on five items of the measure
+developed by Asher and Wheeler (1985), we
+1272 Juvonen, Kogachi, and Graham
+assessed loneliness and social dissatisfaction.
+
+Perceptions of teachers’ fair and equal treatment.
+To capture student perceptions of teachers’
+fair and equal treatment of all ethnic groups, we
+relied on three items from the School Interracial Climate
+Scale (Green, Adams, & Turner, 1988) that
+examine the extent to which youth felt that the
+teachers in their school treated all students the
+same
+
+Ethnic out-group distance. Ethnic out-group distance
+was computed using 16 items assessing the
+degree to which students wanted to associate with
+ethnic in-group and out-group members
+
+### Chevalier, N. (2018). Willing to Think Hard? The Subjective Value of Cognitive Effort in Children. Child development, 89(4), 1283–1295. Retrieved from http://dx.doi.org/10.1111/cdev.12805
+
+Study 1
+
+Children completed a childappropriate
+version of the COG-ED, adapted from
+Westbrook et al. (2013). The COG-ED, which was
+run with E-Prime 2 (Psychology Software Tools,
+Pittsburgh, PA)
+
+
+Child adaptation of the cognitive effort discounting (COG-ED) paradigm. (A) In the first phase, children experienced three Nback
+tasks of increasing difficulty, 1-back (blue game—low difficulty), 2-back (red game—intermediate difficulty), and 3-back (green
+game—high difficulty). They had to press a button when the current picture matched the picture presented one, two, or three trials back,
+respectively. (B) In the second phase, children had to choose between the easy 1-back task for a smaller reward (left) and a harder task
+(either 2- or 3-back) for a greater reward (right) (2 runs of 6 choices each).
+
+Finally, in Phase 3, children played short series
+(16 pictures) of N-back tasks corresponding to two
+of their choices (one from each choice run) and
+were told how many points they accumulated.
+
+Bilateral pupil dilation was recorded while children
+played the three N-back tasks in Phase 1 with a
+Tobii TX300 eye tracker
+
+
+Study 2
+
+A trained experimenter tested children individually
+in a quiet room of their after-school club. Children
+first rated the attractiveness of potential prizes
+(stationary items) on a 5-point Likert scale
+
+They then completed the same
+COG-ED paradigm as in Study 1, except that pupil
+dilation was not recorded during the game. As a
+consequence, the 10-s fixation cross before each run
+in Phase 1 was removed. Children completed COGED
+on a laptop and entered responses by pressing
+the “0” key on the keyboard instead of a gamepad
+button
+
+children
+completed an AX-CPT task to assess proactive control
+engagement The AX-CPT, adapted from Chatham et al.
+(2009), was run using E-Prime 2 pressing buttons on the keyboard.
+
+the Need for Cognition Scale
+(NCS) to assess trait interest in effortful activities The short form of the Need for Cognition Scale
+(NCS; Cacioppo et al., 1996) was administered in
+an interview format
+
+### Hughes, C., Devine, R. T., & Wang, Z. (2018). Does Parental Mind-Mindedness Account for Cross-Cultural Differences in Preschoolers’ Theory of Mind? Child development, 89(4), 1296–1310. Retrieved from http://dx.doi.org/10.1111/cdev.12746
+
+parent–child dyads
+ 
+Parents and
+children took part in a session lasting up to
+90 min in an observation laboratory at each university. 
+
+
+
+
+
 
 
 ### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from http://dx.doi.org/10.1111/cdev.13124

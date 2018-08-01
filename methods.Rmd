@@ -41,9 +41,11 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
 - Click on the issue
 - click on the journal article
 - click on the link to the individual paper
-- Follow the 'In the Journal Website Tab' instructions below
+- Choose the paperpile icon from the upper right hand cornder of the chrome window
+- Select 'Add to Paperpile'
 - Open the .pdf file
 - Download the .pdf
+- go to the paperpile tab
 - Upload the .pdf into the paperpile citation manually
 
 
