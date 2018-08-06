@@ -16,9 +16,9 @@ Which Journals are relevant? Check out here: https://www.scimagojr.com/journalra
   - [**Developmental Science**](https://onlinelibrary.wiley.com/journal/14677687)
   - [Journal of Experimental Child Psychology (JECP)](https://www.journals.elsevier.com/journal-of-experimental-child-psychology)
   - [**Infancy**](https://onlinelibrary.wiley.com/journal/15327078)
-  - [Infant Behavior and Development](https://www.journals.elsevier.com/infant-behavior-and-development)
+  - [**Infant Behavior and Development**](https://www.journals.elsevier.com/infant-behavior-and-development)
   
-  - [Developmental Review](https://www.sciencedirect.com/journal/developmental-review)
+  - [**Developmental Review**](https://www.sciencedirect.com/journal/developmental-review)
 
 
 ## How to code a paper
