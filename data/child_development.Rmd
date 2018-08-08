@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Volume 89, Issue 4
 
+## EMPIRICAL REPORTS
+
 ### Kampouri, M., Kyriklaki, A., Roumeliotaki, T., Koutra, K., Anousaki, D., Sarri, K., Vassilaki, M., et al. (2018). Patterns of Early-Life Social and Environmental Exposures and Child Cognitive Development, Rhea Birth Cohort, Crete, Greece. Child development, 89(4), 1063–1073. Retrieved from http://dx.doi.org/10.1111/cdev.12782
 
 Parental and child sociodemographic characteristics
@@ -210,6 +212,8 @@ sample served as a baseline comparison group—these children
 were asked identical questions about whether
 the events could really occur but did not receive
 testimony.
+
+## EMPIRICAL ARTICLES
 
 ### McCrink, K., Caldera, C., & Shaki, S. (2018). The Early Construction of Spatial Attention: Culture, Space, and Gesture in Parent-Child Interactions. Child development, 89(4), 1141–1156. Retrieved from http://dx.doi.org/10.1111/cdev.12781
 
@@ -726,12 +730,187 @@ food
 ### Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the Transfer Deficit: Contextual Mismatch, Proactive Interference, and Working Memory Affect Toddlers’ Video-Based Transfer. Child development, 89(4), 1378–1393. Retrieved from http://dx.doi.org/10.1111/cdev.12810
 
 
+Participants were 42 toddlers between 27 and
+34.5 months of age (55% female).
+
+Participants were randomly assigned
+Understanding the Transfer Deficit 1381
+to one of two conditions: mismatch (n = 22, 64%
+female; Mage = 31.18 months) and match (n = 20,
+45% female; Mage = 30.35 months). 
+
+Object-Retrieval Task
+
+In this study, the video stimuli were
+displayed on touch-screen tablet computers (10.1-in.
+Galaxy Tab; Samsung America, San Jose, CA) using
+a mobile application that was developed for this
+project. The video included images of four hiding
+locations (4 9 4 cm each) and a cartoon bear
+(2.5 9 2.7 cm). The same tablet was used to display
+videos for hiding events in both conditions
+
+In the match condition, a second tablet device
+was used to present videos for search events. The
+experimenter asked the child to touch an object on
+the screen to search for the bear, which triggered
+an animation of the object moving upward to
+reveal what was underneath. 
+
+In the mismatch condition,
+a felt board was used for search events. The
+felt board had the same dimensions and appearance
+as the video hiding space. 
+
+A video camera was
+located behind the child to record the child’s behavior
+in both conditions.
+
+Working Memory
+
+To assess WM, we used the Spin the Pots task,
+which has been used in previous studies with
+2-year-old participants (Bernier, Carlson, & Whipple,
+2010; Brito, Grenell, & Barr, 2014; Hughes &
+Ensor, 2005). A set of eight visually distinct boxes
+(e.g., jewelry boxes, decorated wooden boxes) was
+arranged on a round mat (see Figure 3).
+
+the experimenter
+hid six stickers in eight different boxes in
+the child’s view, leaving two additional boxes
+empty. The experimenter covered the boxes with a
+cloth and rotated the mat 180°. Then the experimenter
+removed the cloth and asked the child to
+find a sticker. The child searched for one sticker at
+a time. After each search attempt, the experimenter
+covered the boxes and rotated the mat 180°. An
+observer recorded the chosen boxes on a score
+sheet. The task ended when all six stickers were
+found or after 16 attempts, whichever came first.
+
+Receptive Vocabulary
+
+The Receptive OneWord
+Picture Vocabulary Test, fourth edition, was
+used to measure each child’s receptive vocabulary
+(Martin & Brownell, 2010).
+
+The experimenter
+showed one page of a flipbook at a time. Each page
+had four pictures on it (see Figure 3). The experimenter
+asked the child to point to one of the four
+pictures that matched the word (e.g., “Fish. Which
+one is the fish?”)
+
+Parent Survey
+
+Parents were asked to complete an online questionnaire
+that requested demographic information
+including parent’s education and child’s race and
+ethnicity. The survey also included items about the
+child’s media use at home: Parents reported
+whether they allow their child to use mobile touchscreen
+devices (e.g., iPad) and how much time their
+child spent doing different media-related activities
+(e.g., watching television, using a mobile touchscreen
+device) on the previous day.
+
+### Azañón, E., Camacho, K., Morales, M., & Longo, M. R. (2018). The Sensitive Period for Tactile Remapping Does Not Include Early Infancy. Child development, 89(4), 1394–1404. Retrieved from http://dx.doi.org/10.1111/cdev.12813
+
+Fourteen children treated for dense bilateral con-genital cataracts before the age of 5 months weretested in the facilities of the Sant Joan de Deu Chil-dren’s Hospital 
+
+temporal order judgment (TOJ) task
+
+Tactile stimuli consisted of two vibrotactile stim-uli at suprathreshold intensity delivered throughOticon bone conductors (sized about 1.6 9 1 9.8 cm; Type BC 461–012, Oticon, Ltd., Milton Key-nes, UK). The stimulation was controlled usingDMDX (Forster & Forster, 2003) and presented for35 ms with a frequency of 200 Hz. Each tactilestimulus was inserted inside the body of a smallcuddly toy (~ 13 cm in length and ~ 4 cm wide).Both toys were identical, except for a piece of clothplaced around the neck that differed in color. A toywas held with each hand, and the hands were posi-tioned in front of the participant at a comfortabledistance, either crossed or uncrossed. 
+
+Par-ticipants were asked to sit in front of a computerscreen (13 in. laptop) and hold a toy with each hand.The arms were positioned either uncrossed orcrossed over the body midline in front of the partici-pant. Participants were asked to make unspeeded judgments of which stimulus came ﬁrst and move the hand holding the toy that was stimulated ﬁrst. In the case of the children, they were told that they were the judge of a race between the two toys and that they should report the winner of each race. 
+
+Everytrial started with the appearance of a picture ofSpider-Man or a tiger centrally located on the screen,followed 1 s later by the ﬁrst tactile stimulus. Partici-pants were instructed to ﬁxate on the central ﬁgure.
+
+Responses from the participants were recorded by the experimenter on the keyboa rd. 
+
+### Häfner, I., Flunger, B., Dicke, A.-L., Gaspard, H., Brisson, B. M., Nagengast, B., & Trautwein, U. (2018). The Role of Family Characteristics for Students’ Academic Outcomes: A Person-Centered Approach. Child development, 89(4), 1405–1422. Retrieved from http://dx.doi.org/10.1111/cdev.12809
+
+Data from students and their parents were collected
+as part of the large study “Motivation in
+Mathematics” in German academic track schools in
+Baden-Wuerttemberg between 2012 and 2013. The data set used in the current study involved
+1,978 ninth-grade students enrolled in 82 classrooms
+in 25 schools
+
+Family characteristics 
+measures were assessed at
+the beginning of the ninth grade (T1) using the parent
+questionnaire. Except for family interest and
+SES indicators, all family characteristics refer to the
+parent filling out the questionnaire. 
+
+Students’ motivation
+was measured at T1 and 5 months later (T2).
+
+Students’ grades were collected at the end of eighth
+grade, the middle of ninth grade, and the end of
+ninth grade. 
+
+In addition, students completed achievement tests at both time points. 
+  The achievement test at T1 was conducted
+at the beginning of ninth grade and is a
+standardized math achievement test administered
+to all ninth-grade students in the state.
+  The achievement test at T2 was a speed test
+(Schmidt, Ennemoser, & Krajewski, 2012), which
+consisted of 50 exercises including typical math
+operations and measured fluency at solving math
+operations
+
+### Herle, M., Fildes, A., Rijsdijk, F., Steinsbekk, S., & Llewellyn, C. (2018). The Home Environment Shapes Emotional Eating. Child development, 89(4), 1423–1434. Retrieved from http://dx.doi.org/10.1111/cdev.12799
+
+All participants were drawn from Gemini
+(http://www.geministudy.co.uk/); a populationbased
+twin birth cohort setup in 2007 to investigate
+genetic and environmental influences on early
+growth
+
+Baseline questionnaire
+
+Two thousand four hundred and two families
+completed the baseline questionnaire; the
+baseline sample included 749 MZ pairs and 1,616
+dizygotic (
+
+Follow-up questionnaires were sent to families
+when children were 16 months and 5 years old.
 
 
+EOE was measured using the “emotional
+overeating” scale of the parent-reported Child Eating
+Behavior Questionnaire (CEBQ; Wardle et al.,
+2001). The CEBQ is a parent-reported questionnaire
+that consists of 35 items that describe a range of
+children’s eating behaviors
 
+Gestational age was reported by parents. 
 
+Information
+on weight at birth was taken from the
+child’s personal health record and reported by parents.
 
+Age of the child at EOE measurement was calculated
+from their date of birth and the date of
+questionnaire completion. Opposite-sex twin pairs
+were classified as DZ. Parents of same-sex twins
+completed a 20-item questionnaire to establish their
+zygosity.
 
+## E‐ONLY ARTICLES
+- not completed
+### Empirical Reports: 3
+### Empirical Articles: 7
+
+## Not in this issue
+
+### Early View Article
 
 ### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from http://dx.doi.org/10.1111/cdev.13124
 
