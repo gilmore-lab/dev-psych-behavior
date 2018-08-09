@@ -15,14 +15,61 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Kampouri, M., Kyriklaki, A., Roumeliotaki, T., Koutra, K., Anousaki, D., Sarri, K., Vassilaki, M., et al. (2018). Patterns of Early-Life Social and Environmental Exposures and Child Cognitive Development, Rhea Birth Cohort, Crete, Greece. Child development, 89(4), 1063–1073. Retrieved from http://dx.doi.org/10.1111/cdev.12782
 
+
+
+Participants: Mother, Child (age4)
+Context: Interviews at Hospital/Health Center
+Measures: 2 Questionnaires: Child - MSCA , Mother - ADHDT Mother interview during pregnancy, Postpartum breastfeeding interview at 9 and 18 months
+
+Participants’ assessments,
+at the 4-year follow-up, took place at the
+University Hospital of Heraklion or at health centers
+for the families residing in rural areas
+
+
+Exposure Assessment
 Parental and child sociodemographic characteristics
 were collected through questionnaires administered
-by interviewers. 
+by interviewers.
 
+Information on maternal age at child birth (in
+years), maternal parity at birth (primiparous, multiparous),
+and maternal smoking status during pregnancy
+(smoking, quit during pregnancy, no
+smoking) was collected during pregnancy. Information
+on breastfeeding duration (in months) was
+collected at 9 months postpartum and was updated
+at 18 months. 
+
+first trimester of pregnancy and updated at 4 years
+Information regarding maternal and
+paternal education (low: mandatory schooling
+[9 years], medium: postsecondary education
+[12 years], high: university/technical college
+degree), residence (rural, urban), maternal occupational
+status (unemployed, employed), birth order
+(only child, first child, other), and maternal marital
+status (single, married) was obtained during the
+
+4-year follow-up assessment
+Data on child preschool attendance (yes, no), television
+watching during weekdays (less than 1 hr, 1–
+2 hr, more than 2 hr), and parental participation at
+leisure time during weekends (both parents, one
+parent, other person) were obtained at the  
+
+~clinical records at delivery~
+Gestational age and anthropometric
+measurements at birth were collected from
+ (used as z scores,
+adjusted for gestational age and gender).
+
+McCarthy Scales of Children’s Abilities
 Children’s cognitive and motor development at
 4 years was assessed through the McCarthy Scales
 of Children’s Abilities (MSCA; MacCarthy, 1972). In person
 
+Attention Deficit Hyperactivity Disorder Test
 Information on children’s ADHD difficulties was
 gathered through the ADHD test (ADHDT; Gilliam,
 1995), which was completed by the participants’
