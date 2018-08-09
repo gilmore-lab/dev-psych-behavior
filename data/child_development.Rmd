@@ -19,7 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Participants: Mother, Child (age4)
 Context: Interviews at Hospital/Health Center
-Measures: 2 Questionnaires: Child - MSCA , Mother - ADHDT Mother interview during pregnancy, Postpartum breastfeeding interview at 9 and 18 months
+Measures: 
+- Questionnaires administered by interviewers
+ - Child - 4 years (MSCA) 
+ - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)   
+- Clinical Records 
 
 Participants’ assessments,
 at the 4-year follow-up, took place at the
@@ -32,16 +36,16 @@ Parental and child sociodemographic characteristics
 were collected through questionnaires administered
 by interviewers.
 
+9 months postpartum and was updated at 18 months:
 Information on maternal age at child birth (in
 years), maternal parity at birth (primiparous, multiparous),
 and maternal smoking status during pregnancy
 (smoking, quit during pregnancy, no
 smoking) was collected during pregnancy. Information
 on breastfeeding duration (in months) was
-collected at 9 months postpartum and was updated
-at 18 months. 
+collected at  
 
-first trimester of pregnancy and updated at 4 years
+first trimester of pregnancy and updated at 4 years: 
 Information regarding maternal and
 paternal education (low: mandatory schooling
 [9 years], medium: postsecondary education
@@ -51,14 +55,14 @@ status (unemployed, employed), birth order
 (only child, first child, other), and maternal marital
 status (single, married) was obtained during the
 
-4-year follow-up assessment
+4-year follow-up assessment: 
 Data on child preschool attendance (yes, no), television
 watching during weekdays (less than 1 hr, 1–
 2 hr, more than 2 hr), and parental participation at
 leisure time during weekends (both parents, one
 parent, other person) were obtained at the  
 
-~clinical records at delivery~
+clinical records at delivery: 
 Gestational age and anthropometric
 measurements at birth were collected from
  (used as z scores,
@@ -76,6 +80,14 @@ gathered through the ADHD test (ADHDT; Gilliam,
 mothers.
 
 ### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from http://dx.doi.org/10.1111/cdev.12791
+
+Participants: 
+Context: 
+Measures: 
+- Questionniares 
+  - pretest (Intellectual Engagement, BEFKI, Student Achievement test of national educational standards (Math and German))  
+  - post test (BEFKI) 
+- School Grades (pretest and post test) 
 
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
@@ -114,11 +126,21 @@ that higher values indicated better grades.
 
 ### Ansari, A., & Purtell, K. M. (2018). Absenteeism in Head Start and Children’s Academic Learning. Child development, 89(4), 1088–1098. Retrieved from http://dx.doi.org/10.1111/cdev.12800
 
+Participants: Child, Parent
+Context:  Child - School, Parent - Home survey
+Measures:  
+- Questionnaires  
+  - Parent (1) The Family and Child Experiences Survey (FACES) 2009 cohort)  
+  - Child (8 - 4 assessed at 2 timepoints)(Peabody Picture Vocabulary Test, Woodcock–Johnson Letter Word Identification subscale, Woodcock–Johnson Spelling Word subscale, Woodcock– Johnson Applied Problems subscale)  
+   - If the child was spanish (2), also Simon Says and Art Show subscales of the Preschool Language Assessment Survey
+- Classroom Observation (1)  
+
+
 The Family and Child Experiences Survey (FACES)  
 
 we focus on the first two waves of
 data collection (Fall 2009 and Spring 2010), as these
-waves capture the Head Start year. 
+waves capture the Head Start year.  
 
 During the spring of 2010, parents were asked,
 “Approximately how many days has [CHILD]
