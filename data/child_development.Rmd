@@ -81,8 +81,8 @@ mothers.
 
 ### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from http://dx.doi.org/10.1111/cdev.12791
 
-Participants: student
-Context: school
+Participants: student  
+Context: school  
 Measures: 
 - Questionniares (11 total over 3 time points)
   - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2)))
@@ -171,6 +171,20 @@ Paro, & Hamre, 2008).
 
 ### Cvencek, D., Fryberg, S. A., Covarrubias, R., & Meltzoff, A. N. (2018). Self-Concepts, Self-Esteem, and Academic Achievement of Minority and Majority North American Elementary School Children. Child development, 89(4), 1099–1109. Retrieved from http://dx.doi.org/10.1111/cdev.12802
 
+Participants: Child, Teacher 
+Context:  school   
+Measures:  
+- Grades K-2  
+  - role playing - dolls 
+  - Sorting Task on Computer - response (button press)  
+  - School records (absenteeism and year end report cards)  
+- Grades 3-5   
+  - paper questionnaire   - response (pencil)  
+  - Sorting Task on Computer - response (button press)  
+  - School records (absenteeism and year end report cards)  
+- Teachers  
+  - Teachers’ Ratings of Student Behavior - survey type (paper/computer) and response type not provided  
+
 The study took place at an elementary school on
 the Tulalip Indian Reservation in the Puget Sound
 region of Washington State. 
@@ -180,11 +194,23 @@ Self-Representation and Academic Achievement in Children 1101
 assessments, two procedures (role playing (K-2) and
 paper questionnaire (3-5)) were utilized
 
+Explicit Academic Self-Concept Measure
+An eight-item measure was developed to measure
+academic self-concepts (Covarrubias, Herrmann,
+Pauker, & Fryberg, 2016). The role-playing
+and paper techniques were adapted from the procedures
+used with kindergarten (Kamins &
+Dweck, 1999) and elementary school students
+(Heyman et al., 1992) in previous research
+
+Implicit Self-Esteem Measure
 both
 kindergarten to second-grade students and thirdto
 fifth-grade students moved to a desk with a
 laptop computer and were tested one on one utilizing
-the Child IAT procedure 
+the Child IAT procedure. Children are asked to
+rapidly sort the stimuli belonging to four categories
+using two response keys. 
 
 Rates of absenteeism from school records were
 computed as a total number of excused absences,
@@ -206,13 +232,32 @@ music, and physical education (a = .92).
 
 ### Johnston, A. M., Sheskin, M., Johnson, S. G. B., & Keil, F. C. (2018). Preferences for Explanation Generality Develop Early in Biology But Not Physics. Child development, 89(4), 1110–1119. Retrieved from http://dx.doi.org/10.1111/cdev.12804
 
+Participants: Child (2 age groups), Adult  
+Context:  Location of Study not provided    
+Measures:  
+- In person Interview - Verbal response  
+
+
 
 For each domain, we developed explanations for
 nine phenomena that were broadly applicable to
 either all animals or all things.
 
 Participants either evaluated all nine biology
-items or all nine physics items.
+items or all nine physics items. 
+
+To ensure there
+were no systematic differences between participants
+in the two conditions, we randomly assigned participants
+by alternating between the conditions. For
+each item, the experimenter presented a photo of a
+single animal or artifact in a naturalistic background
+(e.g., a bear in a meadow) and then stated
+an observation about that animal or artifact (e.g.,
+“This bear looks like its parents”). After making
+this observation, the experimenter said, “Here are
+two explanations for this. Both are true. Which one
+do you think is most helpful?”
 
 ### Allen, J. P., Grande, L., Tan, J., & Loeb, E. (2018). Parent and Peer Predictors of Change in Attachment Security From Adolescence to Adulthood. Child development, 89(4), 1120–1132. Retrieved from http://dx.doi.org/10.1111/cdev.12840
 
