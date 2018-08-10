@@ -85,7 +85,7 @@ Participants: student
 Context: school
 Measures: 
 - Questionniares (11 total over 3 time points)
-  - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
+  - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2)))
   - 41 days after pretest (Intellectual Engagement (1))
   - post test (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
 - School Grades (@ pretest and post test) 
