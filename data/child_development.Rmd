@@ -22,7 +22,7 @@ Context: Interviews at Hospital/Health Center
 Measures:  
 - Questionnaires administered by interviewers  
   - Child - 4 years (MSCA) verbal response  
-  - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)   I think verbal response  
+  - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)  verbal response? 
 - Clinical Records (1 time point) 
 
 Participants’ assessments,
