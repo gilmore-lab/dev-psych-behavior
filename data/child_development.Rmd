@@ -17,13 +17,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-Participants: Mother, Child (age4)
-Context: Interviews at Hospital/Health Center
-Measures: 
-- Questionnaires administered by interviewers
- - Child - 4 years (MSCA) 
- - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)   
-- Clinical Records 
+Participants: Mother, Child (age4)  
+Context: Interviews at Hospital/Health Center  
+Measures:  
+- Questionnaires administered by interviewers  
+  - Child - 4 years (MSCA) verbal response  
+  - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)   I think verbal response  
+- Clinical Records (1 time point) 
 
 Participants’ assessments,
 at the 4-year follow-up, took place at the
@@ -81,13 +81,14 @@ mothers.
 
 ### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from http://dx.doi.org/10.1111/cdev.12791
 
-Participants: 
-Context: 
+Participants: student
+Context: school
 Measures: 
-- Questionniares 
-  - pretest (Intellectual Engagement, BEFKI, Student Achievement test of national educational standards (Math and German))  
-  - post test (BEFKI) 
-- School Grades (pretest and post test) 
+- Questionniares (11 total over 3 time points)
+  - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
+  - 41 days after pretest (Intellectual Engagement (1))
+  - post test (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
+- School Grades (@ pretest and post test) 
 
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
@@ -126,13 +127,13 @@ that higher values indicated better grades.
 
 ### Ansari, A., & Purtell, K. M. (2018). Absenteeism in Head Start and Children’s Academic Learning. Child development, 89(4), 1088–1098. Retrieved from http://dx.doi.org/10.1111/cdev.12800
 
-Participants: Child, Parent
-Context:  Child - School, Parent - Home survey
-Measures:  
+Participants: Child, Parent  
+Context:  Child - School, Parent - Home survey  
+Measures:   
 - Questionnaires  
   - Parent (1) The Family and Child Experiences Survey (FACES) 2009 cohort)  
   - Child (8 - 4 assessed at 2 timepoints)(Peabody Picture Vocabulary Test, Woodcock–Johnson Letter Word Identification subscale, Woodcock–Johnson Spelling Word subscale, Woodcock– Johnson Applied Problems subscale)  
-   - If the child was spanish (2), also Simon Says and Art Show subscales of the Preschool Language Assessment Survey
+   - If the child was spanish (2), also Simon Says and Art Show subscales of the Preschool Language Assessment Survey  
 - Classroom Observation (1)  
 
 
