@@ -21,7 +21,7 @@ Participants: Mother, Child (age4)
 Context: Interviews at Hospital/Health Center  
 Measures:  
 - Questionnaires administered by interviewers  
-  - Child - 4 years (MSCA) verbal response  
+  - Child (1) - 4 years (MSCA) verbal response  
   - Mother - first trimester, 9 months, 18 months, 4 years(ADHDT)  verbal response? 
 - Clinical Records (1 time point) 
 
@@ -88,7 +88,7 @@ Measures:
   - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2)))
   - 41 days after pretest (Intellectual Engagement (1))
   - post test (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
-- School Grades (@ pretest and post test) 
+- School Grades (2 - @ pretest and post test) 
 
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
@@ -173,17 +173,16 @@ Paro, & Hamre, 2008).
 
 Participants: Child, Teacher 
 Context:  school   
-Measures:  
-- Grades K-2  
-  - role playing - dolls 
-  - Sorting Task on Computer - response (button press)  
-  - School records (absenteeism and year end report cards)  
-- Grades 3-5   
-  - paper questionnaire   - response (pencil)  
-  - Sorting Task on Computer - response (button press)  
-  - School records (absenteeism and year end report cards)  
+Measures: 
+- Child  
+  - Questionnaire (1) 
+    - paper questionnaire - response (pencil) - Grades 3-5 only  
+    - role playing - dolls - Grades K-2 only  
+  - Sorting Task (1) on Computer - response (button press)  
+  - School records (2) (absenteeism and year end report cards)  
 - Teachers  
-  - Teachers’ Ratings of Student Behavior - survey type (paper/computer) and response type not provided  
+  - Questionniare (1/child) 
+    - Teachers’ Ratings of Student Behavior - survey type (paper/computer) and response type not provided  
 
 The study took place at an elementary school on
 the Tulalip Indian Reservation in the Puget Sound
@@ -235,7 +234,7 @@ music, and physical education (a = .92).
 Participants: Child (2 age groups), Adult  
 Context:  Location of Study not provided    
 Measures:  
-- In person Interview - Verbal response  
+- In person Interview (1) - Verbal response  
 
 
 
@@ -260,6 +259,10 @@ two explanations for this. Both are true. Which one
 do you think is most helpful?”
 
 ### Allen, J. P., Grande, L., Tan, J., & Loeb, E. (2018). Parent and Peer Predictors of Change in Attachment Security From Adolescence to Adulthood. Child development, 89(4), 1120–1132. Retrieved from http://dx.doi.org/10.1111/cdev.12840
+
+Participants:  
+Context:     
+Measures:
 
 This report is drawn from a larger longitudinal
 investigation of adolescent social development in
@@ -312,6 +315,10 @@ assessed via romantic partner reports on the CTS
 
 ### Lane, J. D., Ronfard, S., & El-Sherif, D. (2018). The Influence of First-Hand Testimony and Hearsay on Children’s Belief in the Improbable. Child development, 89(4), 1133–1140. Retrieved from http://dx.doi.org/10.1111/cdev.12815
 
+Participants:  
+Context:     
+Measures:
+
  Approximately
 two thirds of the children watched videos in
 which informants made claims about events; after
@@ -331,6 +338,10 @@ testimony.
 ## EMPIRICAL ARTICLES
 
 ### McCrink, K., Caldera, C., & Shaki, S. (2018). The Early Construction of Spatial Attention: Culture, Space, and Gesture in Parent-Child Interactions. Child development, 89(4), 1141–1156. Retrieved from http://dx.doi.org/10.1111/cdev.12781
+
+Participants:  
+Context:     
+Measures:
 
 One hundred and thirty caregiver–toddler dyads
 were recruited via flyers and word of mouth from
@@ -353,6 +364,10 @@ camera positioned to provide a bird’s-eye view.
 
 ### Pouwels, J. L., Salmivalli, C., Saarento, S., van den Berg, Y. H. M., Lansu, T. A. M., & Cillessen, A. H. N. (2018). Predicting Adolescents’ Bullying Participation from Developmental Trajectories of Social Status and Behavior. Child development, 89(4), 1157–1176. Retrieved from http://dx.doi.org/10.1111/cdev.12794
 
+Participants:  
+Context:     
+Measures:
+
 The data for Part 1 came from Waves 5,
 6, and 7 of the NLS, that we refer to here as T1, T2,
 and T3, respectively. In each wave, the longitudinal
@@ -374,6 +389,10 @@ own classroom.
 Questions related to Social Status, social Behavior, Roles of Bullying and victimization
 
 ### Meidenbauer, K. L., Cowell, J. M., Killen, M., & Decety, J. (2018). A Developmental Neuroscience Study of Moral Decision Making Regarding Resource Allocation. Child development, 89(4), 1177–1192. Retrieved from http://dx.doi.org/10.1111/cdev.12698
+
+Participants:  
+Context:     
+Measures:
 
 After arriving at the laboratory, parents completed
 demographic reporting about their child and
@@ -400,6 +419,10 @@ and were given the option of playing
 the Free Rice Game.
 
 ### Coe, J. L., Davies, P. T., & Sturge-Apple, M. L. (2018). Family Instability and Young Children’s School Adjustment: Callousness and Negative Internal Representations as Mediators. Child development, 89(4), 1193–1208. Retrieved from http://dx.doi.org/10.1111/cdev.12793
+
+Participants:  
+Context:     
+Measures:
 
 Participants included 243 families (mother, intimate
 partner, and preschool child)
@@ -445,6 +468,10 @@ Waves 1 and 3.
 
 ### Borriello, G. A., & Liben, L. S. (2018). Encouraging Maternal Guidance of Preschoolers’ Spatial Thinking During Block Play. Child development, 89(4), 1209–1222. Retrieved from http://dx.doi.org/10.1111/cdev.12779
 
+Participants:  
+Context:     
+Measures:
+
 We recruited 46 mothers and their preschool
 children
 
@@ -471,6 +498,10 @@ the play sessions; all other behaviors were coded
 from videotaped recordings.
 
 ### Golombok, S., Blake, L., Slutsky, J., Raffanello, E., Roman, G. D., & Ehrhardt, A. (2018). Parenting and the Adjustment of Children Born to Gay Fathers Through Surrogacy. Child development, 89(4), 1223–1233. Retrieved from http://dx.doi.org/10.1111/cdev.12728
+
+Participants:  
+Context:     
+Measures:
 
 The majority of families were assessed at home.
 However, 35% of gay father families and 42% of
@@ -518,6 +549,10 @@ procedure
 
 ### Steinsbekk, S., Barker, E. D., Llewellyn, C., Fildes, A., & Wichstrøm, L. (2018). Emotional Feeding and Emotional Eating: Reciprocal Processes and the Influence of Negative Affectivity. Child development, 89(4), 1234–1246. Retrieved from http://dx.doi.org/10.1111/cdev.12756
 
+Participants:  
+Context:     
+Measures:
+
 All children of the 2003 and 2004 birth cohorts
 (n = 3,456) and their parents living in Trondheim,
 Norway
@@ -556,12 +591,20 @@ by the health care nurse - used to calculate BMI
 
 ### Swingley, D., & Humphrey, C. (2018). Quantitative Linguistic Predictors of Infants’ Learning of Specific English Words. Child development, 89(4), 1247–1267. Retrieved from http://dx.doi.org/10.1111/cdev.12731
 
+Participants:  
+Context:     
+Measures:
+
 Corpus materials were downloaded from the
 CHILDES repository
 
 recordings and transcripts for 8 children
 
 #### Juvonen, J., Kogachi, K., & Graham, S. (2018). When and How Do Students Benefit From Ethnic Diversity in Middle School? Child development, 89(4), 1268–1282. Retrieved from http://dx.doi.org/10.1111/cdev.12834
+
+Participants:  
+Context:     
+Measures:
 
 Participants were drawn from a larger sample of
 5,991 sixth-grade students 
@@ -621,6 +664,10 @@ degree to which students wanted to associate with
 ethnic in-group and out-group members
 
 ### Chevalier, N. (2018). Willing to Think Hard? The Subjective Value of Cognitive Effort in Children. Child development, 89(4), 1283–1295. Retrieved from http://dx.doi.org/10.1111/cdev.12805
+
+Participants:  
+Context:     
+Measures:
 
 Study 1
 
@@ -707,6 +754,10 @@ recording device and later transcribed verbatim.
 
 ### Legette, K. (2018). School Tracking and Youth Self-Perceptions: Implications for Academic and Racial Identity. Child development, 89(4), 1311–1327. Retrieved from http://dx.doi.org/10.1111/cdev.12748
 
+Participants:  
+Context:     
+Measures:
+
 7th graders
 
 Parents were given the option to
@@ -722,6 +773,10 @@ program used for data management, coding, and
 analyses
 
 ### Gardner-Neblett, N., & Sideris, J. (2018). Different Tales: The Role of Gender in the Oral Narrative-Reading Link Among African American Children. Child development, 89(4), 1328–1342. Retrieved from http://dx.doi.org/10.1111/cdev.12803
+
+Participants:  
+Context:     
+Measures:
 
 Preschool Oral Narrative Skill
 Children’s oral narratives were measured when
@@ -767,6 +822,10 @@ WJ–R (Woodcock & Johnson, 1989) was used
 
 ### Jambon, M., & Smetana, J. G. (2018). Individual Differences in Prototypical Moral and Conventional Judgments and Children’s Proactive and Reactive Aggression. Child development, 89(4), 1343–1359. Retrieved from http://dx.doi.org/10.1111/cdev.12757
 
+Participants:  
+Context:     
+Measures:
+
 structured interviews were conducted to
 assess children’s moral and conventional judgments.
 Interview scripts and all visual stimuli are
@@ -807,6 +866,10 @@ answer responses
 
 ### Ferguson, G. M., Muzaffar, H., Iturbide, M. I., Chu, H., & Meeks Gardner, J. (2018). Feel American, Watch American, Eat American? Remote Acculturation, TV, and Nutrition Among Adolescent-Mother Dyads in Jamaica. Child development, 89(4), 1360–1377. Retrieved from http://dx.doi.org/10.1111/cdev.12808
 
+Participants:  
+Context:     
+Measures:
+
 Only adolescents who returned a signed parental
 consent form, a completed mother questionnaire,
 and completed an assent form were given a
@@ -844,6 +907,9 @@ food
 
 ### Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the Transfer Deficit: Contextual Mismatch, Proactive Interference, and Working Memory Affect Toddlers’ Video-Based Transfer. Child development, 89(4), 1378–1393. Retrieved from http://dx.doi.org/10.1111/cdev.12810
 
+Participants:  
+Context:     
+Measures:
 
 Participants were 42 toddlers between 27 and
 34.5 months of age (55% female).
@@ -933,6 +999,10 @@ device) on the previous day.
 
 ### Azañón, E., Camacho, K., Morales, M., & Longo, M. R. (2018). The Sensitive Period for Tactile Remapping Does Not Include Early Infancy. Child development, 89(4), 1394–1404. Retrieved from http://dx.doi.org/10.1111/cdev.12813
 
+Participants:  
+Context:     
+Measures:
+
 Fourteen children treated for dense bilateral con-genital cataracts before the age of 5 months weretested in the facilities of the Sant Joan de Deu Chil-dren’s Hospital 
 
 temporal order judgment (TOJ) task
@@ -946,6 +1016,10 @@ Everytrial started with the appearance of a picture ofSpider-Man or a tiger cent
 Responses from the participants were recorded by the experimenter on the keyboa rd. 
 
 ### Häfner, I., Flunger, B., Dicke, A.-L., Gaspard, H., Brisson, B. M., Nagengast, B., & Trautwein, U. (2018). The Role of Family Characteristics for Students’ Academic Outcomes: A Person-Centered Approach. Child development, 89(4), 1405–1422. Retrieved from http://dx.doi.org/10.1111/cdev.12809
+
+Participants:  
+Context:     
+Measures:
 
 Data from students and their parents were collected
 as part of the large study “Motivation in
@@ -980,6 +1054,10 @@ operations and measured fluency at solving math
 operations
 
 ### Herle, M., Fildes, A., Rijsdijk, F., Steinsbekk, S., & Llewellyn, C. (2018). The Home Environment Shapes Emotional Eating. Child development, 89(4), 1423–1434. Retrieved from http://dx.doi.org/10.1111/cdev.12799
+
+Participants:  
+Context:     
+Measures:
 
 All participants were drawn from Gemini
 (http://www.geministudy.co.uk/); a populationbased
