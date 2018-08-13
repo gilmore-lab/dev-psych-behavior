@@ -267,17 +267,19 @@ This report is drawn from a larger longitudinal
 investigation of adolescent social development in
 familial and peer contexts. 
 
-AAI and Q-Set (Ages 14 and 24)
+AAI and Q-Set (Ages 14 and 24)  
+- structured interview - verbal
 This structured interview probes individuals’
 descriptions of their childhood relationships with
 parents in both abstract terms and with requests
 for specific supporting memories
 
-Maternal Supportive Behavior (Ages 13 and 16)
+Maternal Supportive Behavior (Ages 13 and 16)  
+- task between adolescent and mother (interactions were coded by experimenter)  
 Adolescents participated in an 8-min supportive
 behavior interaction task with their mothers
 
-Parental Psychological Control (Ages 14 and 16/17)
+Parental Psychological Control (Ages 14 and 16/17) - Questionnaire (paper?)
 Adolescents completed the Psychological Control
 versus Psychological Autonomy subscale of the
 Childhood Report of Parenting Behavior Inventory
