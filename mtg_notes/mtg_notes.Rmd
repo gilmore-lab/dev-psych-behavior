@@ -38,3 +38,12 @@ knitr::opts_chunk$set(echo = TRUE)
         - How to code relevant data
     - ROG read paper
     - AS start piloting scheme on articles from most recent issue of the highlighted journals.
+
+## 2018-08-14  
+
+- There is some difficulty in finding some information in the articles  
+  - Location of study  
+  - response type  
+  - The actual questions used in a questionnaire  
+  - If a subscale of a questionnaire is used, these are also hard to find  
+  
