@@ -148,8 +148,8 @@ Measures:
   - Parent (1) The Family and Child Experiences Survey (FACES) 2009 cohort, Absenteeism (1 in person verbal question))  
   - Child (8 - 4 assessed at 2 timepoints)
     - Peabody Picture Vocabulary Test   
-      - Display - experimenter read word, child look at picture cards   
-      - Response - point with finger to card matching word  
+      - Display - experimenter read word aloud, child look at picture cards    
+      - Response - point with finger to card matching word   
     - Woodcock–Johnson Letter Word Identification subscale - identify letters  
       - Display -  administered to child   
       - Response - unknown  
@@ -164,7 +164,7 @@ Measures:
     - Simon Says subscale of the Preschool Language Assessment Survey  
       - Display -  unknown  
       - Response - unknown  
-    - Art Show subscales of the Preschool Language Assessment Survey  (method of response is unknown)    
+    - Art Show subscales of the Preschool Language Assessment Survey      
       - Display -  unknown  
       - Response - unknown  
 - Classroom Observation (1) - rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).   
@@ -402,7 +402,7 @@ testimony.
 ### McCrink, K., Caldera, C., & Shaki, S. (2018). The Early Construction of Spatial Attention: Culture, Space, and Gesture in Parent-Child Interactions. Child development, 89(4), 1141–1156. Retrieved from http://dx.doi.org/10.1111/cdev.12781
 
 Participants: Caregiver-toddler dyads   
-Context: NYC (Museum, Laboratory), Israel (Home) 
+Context: NYC (Museum, Laboratory), Israel (Home)  
 Measures:
 - Coviewing task (both watch slideshow and caregiver explain pictures to child)
   - Display - computer screen
