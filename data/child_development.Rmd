@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Participants: Mother, Child (age4)  
 Context: Interviews at Hospital/Health Center  
-Displays/Environment:  In person interviews
+Displays/Environment:  In person interviews  
 Measures:  
 - Questionnaires administered by interviewers  
   - Child (1) - 4 years (MSCA)  
@@ -92,8 +92,8 @@ mothers.
 Participants: student   
 Context: school   
 Displays/Environment: Doesn't specify how Questionnaires were administered or the response type  
-  - possibilities are paper/pencil or computer/button press  
-Measures: 
+  - possibilities are paper/pencil or computer/button press   
+Measures:  
 - Questionniares (11 total over 3 time points)
   - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2)))
   - 41 days after pretest (Intellectual Engagement (1) - observational ratings)
@@ -141,15 +141,32 @@ that higher values indicated better grades.
 ### Ansari, A., & Purtell, K. M. (2018). Absenteeism in Head Start and Children’s Academic Learning. Child development, 89(4), 1088–1098. Retrieved from http://dx.doi.org/10.1111/cdev.12800
 
 Participants: Child, Parent  
-Context:  Child - School, Parent - Home survey  
-Displays/Environment:  Task/Questionnaires - Method of response is not clear for most parts of study  
-Measures:   
+Context:  Child - School, Parent - Home survey   
+Displays/Environment:  In person Task/Questionnaires - Method of response is not clear for most parts of study   
+Measures:    
 - Questionnaires  
   - Parent (1) The Family and Child Experiences Survey (FACES) 2009 cohort, Absenteeism (1 in person verbal question))  
-  - Child (8 - 4 assessed at 2 timepoints)(Peabody Picture Vocabulary Test (child pointed), Woodcock–Johnson Letter Word Identification subscale, Woodcock–Johnson Spelling Word subscale, Woodcock– Johnson Applied Problems subscale)    
-    - in person task (child pointed, identify letters, write letters, solve simple math problems)  
-    - exact way that children identified letters and solved math problems is unknown  
-   - If the child was spanish (2), also Simon Says and Art Show subscales of the Preschool Language Assessment Survey  (method of response is unknown)  
+  - Child (8 - 4 assessed at 2 timepoints)
+    - Peabody Picture Vocabulary Test   
+      - Display - experimenter read word, child look at picture cards   
+      - Response - point with finger to card matching word  
+    - Woodcock–Johnson Letter Word Identification subscale - identify letters  
+      - Display -  administered to child   
+      - Response - unknown  
+    - Woodcock–Johnson Spelling Word subscale - write letters 
+      - Display - administered to child     
+      - Response - unknown  
+    - Woodcock– Johnson Applied Problems subscale - solve simple math problems  
+      - Display -  administered to child     
+      - Response - unknown  
+      
+  - If the child spoke Spanish (2)
+    - Simon Says subscale of the Preschool Language Assessment Survey  
+      - Display -  unknown  
+      - Response - unknown  
+    - Art Show subscales of the Preschool Language Assessment Survey  (method of response is unknown)    
+      - Display -  unknown  
+      - Response - unknown  
 - Classroom Observation (1) - rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).   
 
 
@@ -188,8 +205,8 @@ Paro, & Hamre, 2008).
 ### Cvencek, D., Fryberg, S. A., Covarrubias, R., & Meltzoff, A. N. (2018). Self-Concepts, Self-Esteem, and Academic Achievement of Minority and Majority North American Elementary School Children. Child development, 89(4), 1099–1109. Retrieved from http://dx.doi.org/10.1111/cdev.12802
 
 Participants: Child, Teacher  
-Context:  School 
-Measures: 
+Context:  School  
+Measures:  
 - Child  
   - Paper Questionnaire (1) - Self report assessment - Grades 3-5 only
     - Display - paper questionnaire 
@@ -258,13 +275,15 @@ music, and physical education (a = .92).
 ### Johnston, A. M., Sheskin, M., Johnson, S. G. B., & Keil, F. C. (2018). Preferences for Explanation Generality Develop Early in Biology But Not Physics. Child development, 89(4), 1110–1119. Retrieved from http://dx.doi.org/10.1111/cdev.12804
 
 Participants: Child (2 age groups), Adult  
-Recruitment:   
-- Children - 1. from our laboratory database and 2. a local science museum in a Northeastern metropolitan area  
+Recruitment:    
+- Children  
+  - from our laboratory database  
+  - a local science museum in a Northeastern metropolitan area  
 - Adult - from Mechanical Turk   
 Context:  Location of Study not provided     
 Measures:   
 - Participant  
-  - present photo then explanation for phenomena (9 physics or 9 biology)
+  - view photo then explanation for phenomena (9 physics or 9 biology)
     - Display - Experimenter in person Interview  
     - Response - Verbal     
 
@@ -384,14 +403,20 @@ testimony.
 Participants: Caregiver-toddler dyads   
 Context: NYC (Museum, Laboratory), Israel (Home) 
 Measures:
-- View slideshow on laptop computer screen (watch and caregiver explain pictures)
+- Coviewing task (both watch slideshow and caregiver explain pictures to child)
+  - Display - computer screen
+  - Response - none
   - Video (bird's eye view of the area between the participants and the computer screen.)  
-  - first 3 min of video coded
-  - codes for placement of tile (Left-Right(LR), Right-Left(RL), Vertical(VRT), Neutral(NTL))  
+  - Coding  
+    - first 3 min of video coded
+    - codes for placement of tile (Left-Right(LR), Right-Left(RL), Vertical(VRT), Neutral(NTL))  
 
 - Task: Story Construction  
+  - Display - picture tiles
+  - Response - caregiver placed tiles and created a story
   - Video (bird's eye view)  
-  - codes for movement of caregiver arm
+  - Coding  
+    - codes for movement of caregiver arm
       
 One hundred and thirty caregiver–toddler dyads
 were recruited via flyers and word of mouth from
@@ -440,9 +465,27 @@ Questions related to Social Status, social Behavior, Roles of Bullying and victi
 
 ### Meidenbauer, K. L., Cowell, J. M., Killen, M., & Decety, J. (2018). A Developmental Neuroscience Study of Moral Decision Making Regarding Resource Allocation. Child development, 89(4), 1177–1192. Retrieved from http://dx.doi.org/10.1111/cdev.12698
 
-Participants:  
-Context:     
+Participants: parent, child
+Context: lab    
 Measures:
+- Child 
+  - Resource Allocation Game
+    - EEG  
+      - Display - computer screen  
+      - Response - keyboard press  
+  - First Person Allocation Task - “What would you do?”
+    - Display - unknown 
+    - Response -  unknown
+  - a short survey to assess pubertal status (Pubertal Development Scale; Petersen, Crockett, Richards, & Boxer, 1988)  
+    - Display - unknown
+    - Response - unknown
+  - the Free Rice Game (optional)
+    - Display - computer screen  
+    - Response - Button Press  
+- Parent  
+  - Demographic reporting  
+    - Display - unknown  
+    - Response - unknown  
 
 After arriving at the laboratory, parents completed
 demographic reporting about their child and
