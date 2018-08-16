@@ -279,8 +279,9 @@ Recruitment:
 - Children  
   - from our laboratory database  
   - a local science museum in a Northeastern metropolitan area  
-- Adult - from Mechanical Turk   
-Context:  Location of Study not provided     
+- Adult - from Mechanical Turk    
+
+Context: Location of Study not provided     
 Measures:   
 - Participant  
   - view photo then explanation for phenomena (9 physics or 9 biology)
