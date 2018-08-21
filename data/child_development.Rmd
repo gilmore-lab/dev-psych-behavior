@@ -123,14 +123,14 @@ Measures:
 ||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|pretest|
 ||Student Achievement test of national educational standards - Math |student achievement|Student|pretest|
 ||Student Achievement test of national educational standards - German |student achievement|Student|pretest|
-||Intellectual Engagement ||Student|pretest + 41 days|
+||Intellectual Engagement |Ratings|Student|pretest + 41 days|
 ||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|post test|
 ||Student Achievement test of national educational standards - Math |student achievement|Student|post test|
 ||Student Achievement test of national educational standards - German |student achievement|Student|post test|
-||School Grades - Math||School Grades|Student|pretest|
-||School Grades - German||School Grades|Student|pretest|
-||School Grades - Math||School Grades|Student|post test|
-||School Grades - German||School Grades|Student|post test|
+||School Grades - Math||School Grades|pretest|
+||School Grades - German||School Grades|pretest|
+||School Grades - Math||School Grades|post test|
+||School Grades - German||School Grades|post test|
 
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
@@ -200,6 +200,17 @@ Measures:
       - Display -  unknown  
       - Response - unknown  
 - Classroom Observation (1) - rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).   
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |  
+|---|---|---|---|---|
+||The Family and Child Experiences Survey||Parent|Fall 2009, Spring 2010|
+|| Absenteeism Question||Parent|Spring 2010|
+|| Peabody Picture Vocabulary Test |vocabulary|Child|Fall 2009, Spring 2010|
+|| Woodcock–Johnson Letter Word Identification subscale |letter identification|Child|Fall 2009, Spring 2010|
+|| Woodcock–Johnson Spelling Word subscale |letter writing|Child|Fall 2009, Spring 2010|
+|| Woodcock– Johnson Applied Problems subscale |math skills|Child|Fall 2009, Spring 2010|
+|| Classroom Observation| rated on the Classroom Assessment Scoring System| Experimenter|Spring 2010|
+
 
 
 The Family and Child Experiences Survey (FACES)  
