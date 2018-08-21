@@ -42,8 +42,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## 2018-08-14  
 
 - There is some difficulty in finding some information in the articles  
-  - Location of study  
-  - response type  
+  - Location of study (e.g. Home, Lab, Museum) 
+  - response type (verbal, written, computer)
   - The actual questions used in a questionnaire or subscale of a questionnaire
   - How was the questionnaire given (paper/pencil, computer, verbal)? Most times, not listed at all
   - Listed a measure in the beginning of the methods, but never explained the measure in detail
