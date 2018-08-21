@@ -258,7 +258,7 @@ Measures:
     - Display - Verbal questions asked - assessed their academic self-concepts  
     - Response - play acting main character with dolls  
   - Interviewed in groups of up to six children - Grades 3-5 only  
-    - Display - Verbal questions asked - assessed their academic self-concepts  
+    - Display - Verbal questions asked - Grades K-2 only 
     - Response - play acting main character with dolls  
   - Sorting Task (1)  
      - Display - Computer  
@@ -269,6 +269,16 @@ Measures:
     - Teachers’ Ratings of Student Behavior - adapted from the Child Behavior Checklist  
       - Display - unknown presentation type  
       - Response - response type not provided  
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |  
+|---|---|---|---|---|
+||Paper Questionnaire|Self report assessment|Child|Grades 3-5 only|
+||One on One Interview - Role Playing| measure academic self-concepts|Child|Grades K-2 only|
+||Group Interview (up to 6 children)| measure academic self-concepts|Child| Grades 3-5 only|
+||Child IAT|Sorting Task|Child| Grades K-5|
+||School Records|absenteeism|Records|Grades K-5|
+||School Records|year end report card|Records|Grades K-5|
+||Child Behavior Checklist (1/child)| Teachers’ Ratings of Student Behavior| Teacher|Grades K-5|
 
 The study took place at an elementary school on
 the Tulalip Indian Reservation in the Puget Sound
