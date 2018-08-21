@@ -31,20 +31,19 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |  
 |---|---|---|---|---|
-| | McCarthy Scales of Children’s Abilities | cognitive and motor development | Child | 4 Years |
+| | McCarthy Scales of Children’s Abilities | Neuropsychological Assessment | Child | 4 Years |
 | | Attention Deficit Hyperactivity Disorder Test | children’s ADHD difficulties | Mother | 4 Years |  
-| | Exposure Assessment | Parental and child sociodemographic characteristics | Mother | |
-| | | Maternal age at child birth | Mother | first-trimester |
-|||maternal parity at birth (primiparous, multiparous)|Mother|first-trimester|
-|||Smoking status during pregnancy|Mother|first-trimester|
-|||Breastfeeding duration|Mother|9 Months, 18 Months|
-|||Maternal and Paternal Education|Mother| first-trimester, 4 Years|
-|||maternal occupational status|Mother| first-trimester, 4 Years|
-|||birth order| Mother| first-trimester, 4 Years|
-|||maternal marital status | Mother| first-trimester, 4 Years|
-|||child preschool attendance| Mother| 4 Years|
-|||television watching during weekdays| Mother| 4 Years|
-|||parental participation at leisure time during weekends| Mother| 4 Years|
+| |Exposure Assessment | Maternal age at child birth | Mother | first-trimester |
+||Exposure Assessment|maternal parity at birth (primiparous, multiparous)|Mother|first-trimester|
+||Exposure Assessment|Smoking status during pregnancy|Mother|first-trimester|
+||Exposure Assessment|Breastfeeding duration|Mother|9 Months, 18 Months|
+||Exposure Assessment|Maternal and Paternal Education|Mother| first-trimester, 4 Years|
+||Exposure Assessment|maternal occupational status|Mother| first-trimester, 4 Years|
+||Exposure Assessment|birth order| Mother| first-trimester, 4 Years|
+||Exposure Assessment|maternal marital status | Mother| first-trimester, 4 Years|
+||Exposure Assessment|child preschool attendance| Mother| 4 Years|
+||Exposure Assessment|television watching during weekdays| Mother| 4 Years|
+||Exposure Assessment|parental participation at leisure time during weekends| Mother| 4 Years|
 ||Clinical Records| Gestational age at delivery | Clinical Records | Birth|
 ||Clinical Records| anthropometric measurements at birth|| Clinical Records| Birth|
 
