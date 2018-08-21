@@ -118,6 +118,20 @@ Measures:
   - post test (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) 
 - School Grades (2 - @ pretest and post test) 
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |  
+|---|---|---|---|---|
+||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|pretest|
+||Student Achievement test of national educational standards - Math |student achievement|Student|pretest|
+||Student Achievement test of national educational standards - German |student achievement|Student|pretest|
+||Intellectual Engagement ||Student|pretest + 41 days|
+||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|post test|
+||Student Achievement test of national educational standards - Math |student achievement|Student|post test|
+||Student Achievement test of national educational standards - German |student achievement|Student|post test|
+||School Grades - Math||School Grades|Student|pretest|
+||School Grades - German||School Grades|Student|pretest|
+||School Grades - Math||School Grades|Student|post test|
+||School Grades - German||School Grades|Student|post test|
+
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
 in Berlin, Germany from the beginning of the
