@@ -120,17 +120,17 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |  
 |---|---|---|---|---|
-||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|pretest|
-||Student Achievement test of national educational standards - Math |student achievement|Student|pretest|
-||Student Achievement test of national educational standards - German |student achievement|Student|pretest|
-||Intellectual Engagement |Ratings|Student|pretest + 41 days|
-||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|post test|
-||Student Achievement test of national educational standards - Math |student achievement|Student|post test|
-||Student Achievement test of national educational standards - German |student achievement|Student|post test|
-||School Grades - Math||School Grades|pretest|
-||School Grades - German||School Grades|pretest|
-||School Grades - Math||School Grades|post test|
-||School Grades - German||School Grades|post test|
+||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|pretest beginning of 9th grade|
+||Student Achievement test of national educational standards - Math |student achievement|Student|pretest beginning of 9th grade|
+||Student Achievement test of national educational standards - German |student achievement|Student|pretest beginning of 9th grade|
+||Intellectual Engagement |Ratings|Student|pretest beginning of 9th grade + 41 days|
+||Berlin Test of Fluid and Crystallized Intelligence|cognitive abilities|Student|post test end of 9th grade|
+||Student Achievement test of national educational standards - Math |student achievement|Student|post test end of 9th grade|
+||Student Achievement test of national educational standards - German |student achievement|Student|post test end of 9th grade|
+||School Grades - Math||School Grades|pretest beginning of 9th grade|
+||School Grades - German||School Grades|pretest beginning of 9th grade|
+||School Grades - Math||School Grades|post test end of 9th grade|
+||School Grades - German||School Grades|post test end of 9th grade|
 
 We utilized data from a longitudinal study on student
 achievement and cognitive ability conducted
@@ -201,10 +201,10 @@ Measures:
       - Response - unknown  
 - Classroom Observation (1) - rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).   
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |  
+| Study | Tasks | Construct | Respondent | Timepoint (Age 3 & 4 years old the beginning of the Head StartYear) |  
 |---|---|---|---|---|
-||The Family and Child Experiences Survey||Parent|Fall 2009, Spring 2010|
-|| Absenteeism Question||Parent|Spring 2010|
+||The Family and Child Experiences Survey|Survey|Parent|Fall 2009, Spring 2010|
+|| Absenteeism Question|Survey|Parent|Spring 2010|
 || Peabody Picture Vocabulary Test |vocabulary|Child|Fall 2009, Spring 2010|
 || Woodcock–Johnson Letter Word Identification subscale |letter identification|Child|Fall 2009, Spring 2010|
 || Woodcock–Johnson Spelling Word subscale |letter writing|Child|Fall 2009, Spring 2010|
@@ -275,7 +275,8 @@ Measures:
 ||Paper Questionnaire|Self report assessment|Child|Grades 3-5 only|
 ||One on One Interview - Role Playing| measure academic self-concepts|Child|Grades K-2 only|
 ||Group Interview (up to 6 children)| measure academic self-concepts|Child| Grades 3-5 only|
-||Child IAT|Sorting Task|Child| Grades K-5|
+||Child Implicit
+Association Test (IAT)|Sorting Task|Child| Grades K-5|
 ||School Records|absenteeism|Records|Grades K-5|
 ||School Records|year end report card|Records|Grades K-5|
 ||Child Behavior Checklist (1/child)| Teachers’ Ratings of Student Behavior| Teacher|Grades K-5|
