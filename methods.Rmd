@@ -2,7 +2,7 @@
 title: "methods"
 author: "Andrea Seisler"
 date: "`r Sys.time()`"
-output: html_document
+output: github_document
 ---
 
 What are the methods to be used when sampling and categorizing papers?
