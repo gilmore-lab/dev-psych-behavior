@@ -31,8 +31,8 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |  
 |---|---|---|---|---|
-|| McCarthy Scales of Children’s Abilities | Neuropsychological Assessment | Child | 4 Years |
-|| Attention Deficit Hyperactivity Disorder Test | children’s ADHD difficulties | Mother | 4 Years |  
+||[McCarthy Scales of Children’s Abilities](https://www.pearsonclinical.co.uk/Psychology/ChildCognitionNeuropsychologyandLanguage/ChildGeneralAbilities/McCarthyScalesofChildrensAbilities/McCarthyScalesofChildrensAbilities.aspx) | Neuropsychological Assessment | Child | 4 Years |
+||[Attention Deficit Hyperactivity Disorder Test](https://www.wpspublish.com/store/p/3293/adhdt-2-attention-deficithyperactivity-disorder-test-second-edition) | children’s ADHD difficulties | Mother | 4 Years |  
 ||Maternal age at child birth |Exposure Assessment |  Mother | first-trimester |
 ||maternal parity at birth (primiparous, multiparous)|Exposure Assessment|Mother|first-trimester|
 ||Smoking status during pregnancy|Exposure Assessment|Mother|first-trimester|
