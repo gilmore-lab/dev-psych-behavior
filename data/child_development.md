@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-10-26 09:05:49
+2018-10-26 09:23:39
 
 Volume 89, Issue 4
 ------------------
@@ -458,30 +458,26 @@ Measures:
 </tr>
 <tr class="even">
 <td></td>
-<td>Child Implicit</td>
-</tr>
-<tr class="odd">
-<td>Association Test (IAT)</td>
+<td>Child Implicit Association Test (IAT)</td>
 <td>Sorting Task</td>
 <td>Child</td>
 <td>Grades K-5</td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>School Records</td>
 <td>absenteeism</td>
 <td>Records</td>
 <td>Grades K-5</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>School Records</td>
 <td>year end report card</td>
 <td>Records</td>
 <td>Grades K-5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td>Child Behavior Checklist (1/child)</td>
 <td>Teachers’ Ratings of Student Behavior</td>

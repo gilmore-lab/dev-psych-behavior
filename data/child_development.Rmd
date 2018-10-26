@@ -275,8 +275,7 @@ Measures:
 ||Paper Questionnaire|Self report assessment|Child|Grades 3-5 only|
 ||One on One Interview - Role Playing| measure academic self-concepts|Child|Grades K-2 only|
 ||Group Interview (up to 6 children)| measure academic self-concepts|Child| Grades 3-5 only|
-||Child Implicit
-Association Test (IAT)|Sorting Task|Child| Grades K-5|
+||Child Implicit Association Test (IAT)|Sorting Task|Child| Grades K-5|
 ||School Records|absenteeism|Records|Grades K-5|
 ||School Records|year end report card|Records|Grades K-5|
 ||Child Behavior Checklist (1/child)| Teachers’ Ratings of Student Behavior| Teacher|Grades K-5|
