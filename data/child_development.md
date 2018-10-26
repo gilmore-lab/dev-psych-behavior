@@ -1,0 +1,958 @@
+child\_development
+================
+Rick Gilmore & Andrea Seisler
+2018-10-26 09:05:49
+
+Volume 89, Issue 4
+------------------
+
+EMPIRICAL REPORTS
+-----------------
+
+### Kampouri, M., Kyriklaki, A., Roumeliotaki, T., Koutra, K., Anousaki, D., Sarri, K., Vassilaki, M., et al. (2018). Patterns of Early-Life Social and Environmental Exposures and Child Cognitive Development, Rhea Birth Cohort, Crete, Greece. Child development, 89(4), 1063–1073. Retrieved from <http://dx.doi.org/10.1111/cdev.12782>
+
+Participants: Mother, Child (age4)
+Context: Interviews at Hospital/Health Center
+Displays/Environment: In person interviews
+Measures:
+- Questionnaires administered by interviewers
+- Child (1) - 4 years (MSCA)
+- verbal response
+- Mother - first trimester, 9 months, 18 months, 4 years(ADHDT) - At the first 3 timepoints, specific questions were asked and detailed below - verbal response?
+- Clinical Records (2)-at the time of delivery (Gestational age and anthropometric measurements at birth)
+
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><a href="https://www.pearsonclinical.co.uk/Psychology/ChildCognitionNeuropsychologyandLanguage/ChildGeneralAbilities/McCarthyScalesofChildrensAbilities/McCarthyScalesofChildrensAbilities.aspx">McCarthy Scales of Children’s Abilities</a></td>
+<td>Neuropsychological Assessment</td>
+<td>Child</td>
+<td>4 Years</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="https://www.wpspublish.com/store/p/3293/adhdt-2-attention-deficithyperactivity-disorder-test-second-edition">Attention Deficit Hyperactivity Disorder Test</a></td>
+<td>children’s ADHD difficulties</td>
+<td>Mother</td>
+<td>4 Years</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Maternal age at child birth</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>maternal parity at birth (primiparous, multiparous)</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Smoking status during pregnancy</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Breastfeeding duration</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>9 Months, 18 Months</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Maternal and Paternal Education</td>
+<td>Mother</td>
+<td>Exposure Assessment</td>
+<td>first-trimester, 4 Years</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>maternal occupational status</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester, 4 Years</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>birth order</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester, 4 Years</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>maternal marital status</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>first-trimester, 4 Years</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>child preschool attendance</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>4 Years</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>television watching during weekdays</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>4 Years</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>parental participation at leisure time during weekends</td>
+<td>Exposure Assessment</td>
+<td>Mother</td>
+<td>4 Years</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Gestational age at delivery</td>
+<td>Birth Classification</td>
+<td>Clinical Records</td>
+<td>Birth</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>anthropometric measurements at birth</td>
+<td>Physiological Assessment</td>
+<td>Clinical Records</td>
+<td>Birth</td>
+</tr>
+</tbody>
+</table>
+
+Participants’ assessments, at the 4-year follow-up, took place at the University Hospital of Heraklion or at health centers for the families residing in rural areas
+
+Exposure Assessment Parental and child sociodemographic characteristics were collected through questionnaires administered by interviewers.
+
+first-trimester maternal age at child birth (in years), maternal parity at birth (primiparous, multiparous), and maternal smoking status during pregnancy (smoking, quit during pregnancy, no smoking) was collected during pregnancy
+
+9 months postpartum and was updated at 18 months: Information on breastfeeding duration (in months) was collected at 9 months postpartum and was updated at 18 months
+
+first trimester of pregnancy and updated at 4 years: Information regarding maternal and paternal education (low: mandatory schooling \[9 years\], medium: postsecondary education \[12 years\], high: university/technical college degree), residence (rural, urban), maternal occupational status (unemployed, employed), birth order (only child, first child, other), and maternal marital status (single, married) was obtained during the
+
+4-year follow-up assessment: Data on child preschool attendance (yes, no), television watching during weekdays (less than 1 hr, 1– 2 hr, more than 2 hr), and parental participation at leisure time during weekends (both parents, one parent, other person) were obtained at the
+
+clinical records at delivery: Gestational age and anthropometric measurements at birth were collected from (used as z scores, adjusted for gestational age and gender).
+
+McCarthy Scales of Children’s Abilities Children’s cognitive and motor development at 4 years was assessed through the McCarthy Scales of Children’s Abilities (MSCA; MacCarthy, 1972). In person
+
+Attention Deficit Hyperactivity Disorder Test Information on children’s ADHD difficulties was gathered through the ADHD test (ADHDT; Gilliam, 1995), which was completed by the participants’ mothers.
+
+### Hülür, G., Gasimova, F., Robitzsch, A., & Wilhelm, O. (2018). Change in Fluid and Crystallized Intelligence and Student Achievement: The Role of Intellectual Engagement. Child development, 89(4), 1074–1087. Retrieved from <http://dx.doi.org/10.1111/cdev.12791>
+
+Participants: student
+Context: school
+Displays/Environment: Doesn't specify how Questionnaires were administered or the response type
+- possibilities are paper/pencil or computer/button press
+Measures:
+- Questionniares (11 total over 3 time points) - pretest (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) - 41 days after pretest (Intellectual Engagement (1) - observational ratings) - post test (BEFKI (1), Student Achievement test of national educational standards (Math (2) and German (2))) - School Grades (2 - @ pretest and post test)
+
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Berlin Test of Fluid and Crystallized Intelligence</td>
+<td>cognitive abilities</td>
+<td>Student</td>
+<td>pretest beginning of 9th grade</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Student Achievement test of national educational standards - Math</td>
+<td>student achievement</td>
+<td>Student</td>
+<td>pretest beginning of 9th grade</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Student Achievement test of national educational standards - German</td>
+<td>student achievement</td>
+<td>Student</td>
+<td>pretest beginning of 9th grade</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Intellectual Engagement</td>
+<td>Ratings</td>
+<td>Student</td>
+<td>pretest beginning of 9th grade + 41 days</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Berlin Test of Fluid and Crystallized Intelligence</td>
+<td>cognitive abilities</td>
+<td>Student</td>
+<td>post test end of 9th grade</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Student Achievement test of national educational standards - Math</td>
+<td>student achievement</td>
+<td>Student</td>
+<td>post test end of 9th grade</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Student Achievement test of national educational standards - German</td>
+<td>student achievement</td>
+<td>Student</td>
+<td>post test end of 9th grade</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>School Grades - Math</td>
+<td></td>
+<td>School Grades</td>
+<td>pretest beginning of 9th grade</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>School Grades - German</td>
+<td></td>
+<td>School Grades</td>
+<td>pretest beginning of 9th grade</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>School Grades - Math</td>
+<td></td>
+<td>School Grades</td>
+<td>post test end of 9th grade</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>School Grades - German</td>
+<td></td>
+<td>School Grades</td>
+<td>post test end of 9th grade</td>
+</tr>
+</tbody>
+</table>
+
+We utilized data from a longitudinal study on student achievement and cognitive ability conducted in Berlin, Germany from the beginning of the school year 2008–2009 until the end of school year 2009–2010. Descriptions of participants, variables, and procedures can be found in Hul € ur, Wilhelm, € and Robitzsch (2011) and Hul € ur, Wilhelm, and € Schipolowski (2011)
+
+We used data from the pretest and the posttest (cognitive abilities and student achievement), as well as the second testing session (IE) that took place on average 41 days after the pretest (SD = 6.24).
+
+We used an 18-item measure of IE (see Wilhelm et al., 2003 for details). Students rated these items on a 6- point scale ranging from 1 (do not agree at all) to 6
+
+Fluid and crystallized intelligence were measured at pretest and posttest with the Berlin Test of Fluid and Crystallized Intelligence (BEFKI; Wilhelm, Schroeders, & Schipolowski, 2014). Fluid intelligence was measured with three subtests for figural, verbal, and numeric content (16 items each).
+
+Mathematics achievement was measured by two tests of the domains “number” and “functional relations.” German achievement was measured by two tests of reading and listening comprehension
+
+We used data on school grades in the subjects German and mathematics that were obtained at pretest and posttest, and recoded so that higher values indicated better grades.
+
+### Ansari, A., & Purtell, K. M. (2018). Absenteeism in Head Start and Children’s Academic Learning. Child development, 89(4), 1088–1098. Retrieved from <http://dx.doi.org/10.1111/cdev.12800>
+
+Participants: Child, Parent
+Context: Child - School, Parent - Home survey
+Displays/Environment: In person Task/Questionnaires - Method of response is not clear for most parts of study
+Measures:
+- Questionnaires
+- Parent (1) The Family and Child Experiences Survey (FACES) 2009 cohort, Absenteeism (1 in person verbal question))
+- Child (8 - 4 assessed at 2 timepoints) - Peabody Picture Vocabulary Test
+- Display - experimenter read word aloud, child look at picture cards
+- Response - point with finger to card matching word
+- Woodcock–Johnson Letter Word Identification subscale - identify letters
+- Display - administered to child
+- Response - unknown
+- Woodcock–Johnson Spelling Word subscale - write letters - Display - administered to child
+- Response - unknown
+- Woodcock– Johnson Applied Problems subscale - solve simple math problems
+- Display - administered to child
+- Response - unknown
+
+-   If the child spoke Spanish (2)
+    -   Simon Says subscale of the Preschool Language Assessment Survey
+    -   Display - unknown
+    -   Response - unknown
+    -   Art Show subscales of the Preschool Language Assessment Survey
+    -   Display - unknown
+    -   Response - unknown
+-   Classroom Observation (1) - rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).
+
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age 3 &amp; 4 years old the beginning of the Head StartYear)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>The Family and Child Experiences Survey</td>
+<td>Survey</td>
+<td>Parent</td>
+<td>Fall 2009, Spring 2010</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Absenteeism Question</td>
+<td>Survey</td>
+<td>Parent</td>
+<td>Spring 2010</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Peabody Picture Vocabulary Test</td>
+<td>vocabulary</td>
+<td>Child</td>
+<td>Fall 2009, Spring 2010</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Woodcock–Johnson Letter Word Identification subscale</td>
+<td>letter identification</td>
+<td>Child</td>
+<td>Fall 2009, Spring 2010</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Woodcock–Johnson Spelling Word subscale</td>
+<td>letter writing</td>
+<td>Child</td>
+<td>Fall 2009, Spring 2010</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Woodcock– Johnson Applied Problems subscale</td>
+<td>math skills</td>
+<td>Child</td>
+<td>Fall 2009, Spring 2010</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Classroom Observation</td>
+<td>rated on the Classroom Assessment Scoring System</td>
+<td>Experimenter</td>
+<td>Spring 2010</td>
+</tr>
+</tbody>
+</table>
+
+The Family and Child Experiences Survey (FACES)
+
+we focus on the first two waves of data collection (Fall 2009 and Spring 2010), as these waves capture the Head Start year.
+
+During the spring of 2010, parents were asked, “Approximately how many days has \[CHILD\] been absent since the beginning of the school year?”
+
+First, children’s language skills were measured using the Peabody Picture Vocabulary Test (Dunn & Dunn, 1997; Fall a = .97 and Spring a = .95).
+
+Next, two subscales from the Woodcock– Johnson (Woodcock, McGrew, & Mather, 2001), the Letter Word Identification (Fall 2009: a = .85 and Spring 2010: a = .83) and Spelling Word (Fall 2009: a = .79 and Spring 2010: a = .83), were administered to children to capture their literacy skills.
+
+Finally, children’s math skills were directly assessed with the Woodcock– Johnson Applied Problems subscale et al., 2001; Fall 2009: a = .87 and Spring 2010: a = .89).
+
+During the spring of 2010, all Head Start classrooms were observed and rated on the Classroom Assessment Scoring System (CLASS; Pianta, La Paro, & Hamre, 2008).
+
+### Cvencek, D., Fryberg, S. A., Covarrubias, R., & Meltzoff, A. N. (2018). Self-Concepts, Self-Esteem, and Academic Achievement of Minority and Majority North American Elementary School Children. Child development, 89(4), 1099–1109. Retrieved from <http://dx.doi.org/10.1111/cdev.12802>
+
+Participants: Child, Teacher
+Context: School
+Measures:
+- Child
+- Paper Questionnaire (1) - Self report assessment - Grades 3-5 only - Display - paper questionnaire - Response - pencil - Interviewed one on one utilizing role-playing techniques - Grades K-2 only
+- Display - Verbal questions asked - assessed their academic self-concepts
+- Response - play acting main character with dolls
+- Interviewed in groups of up to six children - Grades 3-5 only
+- Display - Verbal questions asked - Grades K-2 only - Response - play acting main character with dolls
+- Sorting Task (1)
+- Display - Computer
+- Response - button press
+- School records (2) (absenteeism and year end report cards)
+- Teachers
+- Questionniare (1/child) - Teachers’ Ratings of Student Behavior - adapted from the Child Behavior Checklist
+- Display - unknown presentation type
+- Response - response type not provided
+
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Paper Questionnaire</td>
+<td>Self report assessment</td>
+<td>Child</td>
+<td>Grades 3-5 only</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>One on One Interview - Role Playing</td>
+<td>measure academic self-concepts</td>
+<td>Child</td>
+<td>Grades K-2 only</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Group Interview (up to 6 children)</td>
+<td>measure academic self-concepts</td>
+<td>Child</td>
+<td>Grades 3-5 only</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Child Implicit</td>
+</tr>
+<tr class="odd">
+<td>Association Test (IAT)</td>
+<td>Sorting Task</td>
+<td>Child</td>
+<td>Grades K-5</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>School Records</td>
+<td>absenteeism</td>
+<td>Records</td>
+<td>Grades K-5</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>School Records</td>
+<td>year end report card</td>
+<td>Records</td>
+<td>Grades K-5</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Child Behavior Checklist (1/child)</td>
+<td>Teachers’ Ratings of Student Behavior</td>
+<td>Teacher</td>
+<td>Grades K-5</td>
+</tr>
+</tbody>
+</table>
+
+The study took place at an elementary school on the Tulalip Indian Reservation in the Puget Sound region of Washington State.
+
+For the self-report Self-Representation and Academic Achievement in Children 1101 assessments, two procedures (role playing (K-2) and paper questionnaire (3-5)) were utilized
+
+Explicit Academic Self-Concept Measure An eight-item measure was developed to measure academic self-concepts (Covarrubias, Herrmann, Pauker, & Fryberg, 2016). The role-playing and paper techniques were adapted from the procedures used with kindergarten (Kamins & Dweck, 1999) and elementary school students (Heyman et al., 1992) in previous research
+
+Implicit Self-Esteem Measure both kindergarten to second-grade students and thirdto fifth-grade students moved to a desk with a laptop computer and were tested one on one utilizing the Child IAT procedure. Children are asked to rapidly sort the stimuli belonging to four categories using two response keys.
+
+Rates of absenteeism from school records were computed as a total number of excused absences, unexcused absences, and “tardies” for each student.
+
+On a scale from 0 (not really/never) to either 4 (all of the time for some items) or 5 (more than once or twice a week for other items), teachers rated each student in their class on four items (
+
+End-of-year report cards were obtained for all participants. Grades were averaged for K–5 1102 Cvencek, Fryberg, Covarrubias, and Meltzoff students on a scale from 1 (area of concern) to 4 (exceeds standards) in the following subjects: mathematics, reading, writing, science, social studies, art, music, and physical education (a = .92).
+
+### Johnston, A. M., Sheskin, M., Johnson, S. G. B., & Keil, F. C. (2018). Preferences for Explanation Generality Develop Early in Biology But Not Physics. Child development, 89(4), 1110–1119. Retrieved from <http://dx.doi.org/10.1111/cdev.12804>
+
+Participants: Child (2 age groups), Adult
+Recruitment:
+- Children
+- from our laboratory database
+- a local science museum in a Northeastern metropolitan area
+- Adult - from Mechanical Turk
+
+Context: Location of Study not provided
+Measures:
+- Participant
+- view photo then explanation for phenomena (9 physics or 9 biology) - Display - Experimenter in person Interview
+- Response - Verbal
+
+For each domain, we developed explanations for nine phenomena that were broadly applicable to either all animals or all things.
+
+Participants either evaluated all nine biology items or all nine physics items.
+
+To ensure there were no systematic differences between participants in the two conditions, we randomly assigned participants by alternating between the conditions. For each item, the experimenter presented a photo of a single animal or artifact in a naturalistic background (e.g., a bear in a meadow) and then stated an observation about that animal or artifact (e.g., “This bear looks like its parents”). After making this observation, the experimenter said, “Here are two explanations for this. Both are true. Which one do you think is most helpful?”
+
+### Allen, J. P., Grande, L., Tan, J., & Loeb, E. (2018). Parent and Peer Predictors of Change in Attachment Security From Adolescence to Adulthood. Child development, 89(4), 1120–1132. Retrieved from <http://dx.doi.org/10.1111/cdev.12840>
+
+Participants: Child, Both Parents Context:
+Measures:
+
+This report is drawn from a larger longitudinal investigation of adolescent social development in familial and peer contexts.
+
+AAI and Q-Set (Ages 14 and 24)
+- structured interview - verbal
+This structured interview probes individuals’ descriptions of their childhood relationships with parents in both abstract terms and with requests for specific supporting memories
+
+Maternal Supportive Behavior (Ages 13 and 16)
+- task between adolescent and mother (interactions were coded by experimenter)
+Adolescents participated in an 8-min supportive behavior interaction task with their mothers
+
+Parental Psychological Control (Ages 14 and 16/17) - Questionnaire (paper?)
+Adolescents completed the Psychological Control versus Psychological Autonomy subscale of the Childhood Report of Parenting Behavior Inventory assessing the degree to which mothers and fathers use guilt, love withdrawal, or other autonomyundermining methods to control adolescents’ behavior
+
+Interparental Hostile Conflict (Age 13) Hostile conflict between parents was reported by both parents
+
+Popularity (Age 14) Adolescent popularity was assessed using a limited nomination sociometric procedure.
+
+Close Peer Supportive Behavior (Ages 14, 16/17) Adolescents participated in an 8-min interaction task with their closest friend,
+
+Close Peer Collaborative Behavior and Hostile Behavior (Ages 14, 16/17) Each adolescent-close peer dyad participated in an 8-min videotaped task
+
+Observed Romantic Partner Supportive Behavior (Age 21) Late adolescents participated in an 8-min interaction task with their romantic partner
+
+Romantic Partner Autonomy Support (Age 21) Autonomy support when disagreeing was assessed via romantic partner reports on the CTS
+
+### Lane, J. D., Ronfard, S., & El-Sherif, D. (2018). The Influence of First-Hand Testimony and Hearsay on Children’s Belief in the Improbable. Child development, 89(4), 1133–1140. Retrieved from <http://dx.doi.org/10.1111/cdev.12815>
+
+Participants: Children
+Context: Museum, School or Home
+Measures:
+- In person interview
+- 2/3 view video, 1/3 no video
+- provide judgement/belief ratings - response is likely verbal
+
+Children ranging from 3.5 to 8.5 years in age (n = 161, 96 boys) were interviewed at a museum in Cambridge, Massachusetts (n = 122; Mage = 5. 7 years, Range: 3.5–8.3), and in school or home settings in California’s bay area
+
+Approximately two thirds of the children watched videos in which informants made claims about events; after each video children judged the likelihood that those events could really occur. Belief ratings were scored such that 0 = very sure the event could not happen, 0.33 = a little sure the event could not happen, 0.66 = a little sure the event could happen, and 1.00 = very sure the event could happen.
+
+The final third of the sample served as a baseline comparison group—these children were asked identical questions about whether the events could really occur but did not receive testimony.
+
+EMPIRICAL ARTICLES
+------------------
+
+### McCrink, K., Caldera, C., & Shaki, S. (2018). The Early Construction of Spatial Attention: Culture, Space, and Gesture in Parent-Child Interactions. Child development, 89(4), 1141–1156. Retrieved from <http://dx.doi.org/10.1111/cdev.12781>
+
+Participants: Caregiver-toddler dyads
+Context: NYC (Museum, Laboratory), Israel (Home)
+Measures: - Coviewing task (both watch slideshow and caregiver explain pictures to child) - Display - computer screen - Response - none - Video (bird's eye view of the area between the participants and the computer screen.)
+- Coding
+- first 3 min of video coded - codes for placement of tile (Left-Right(LR), Right-Left(RL), Vertical(VRT), Neutral(NTL))
+
+-   Task: Story Construction
+-   Display - picture tiles
+-   Response - caregiver placed tiles and created a story
+-   Video (bird's eye view)
+-   Coding
+    -   codes for movement of caregiver arm
+
+One hundred and thirty caregiver–toddler dyads were recruited via flyers and word of mouth from the New York City metropolitan area or the Central District of Israel. The Americans participated at a children’s museum or in a laboratory setting, and all Israelis participated in their homes.
+
+Coviewing Task: The dyads viewed a slideshow consisting of 12 images; The stimuli were presented via keynote A camera was positioned above the participants’ head giving a bird’s-eye view of the area between the participants and the computer screen.
+
+Story Construction Task: Caregivers were shown to a child-friendly table and chair set, and told, “Please use these tiles any way you like to create a story for your child.” They were then handed the stack of tiles. The interactions were recorded using a camera positioned to provide a bird’s-eye view.
+
+### Pouwels, J. L., Salmivalli, C., Saarento, S., van den Berg, Y. H. M., Lansu, T. A. M., & Cillessen, A. H. N. (2018). Predicting Adolescents’ Bullying Participation from Developmental Trajectories of Social Status and Behavior. Child development, 89(4), 1157–1176. Retrieved from <http://dx.doi.org/10.1111/cdev.12794>
+
+Participants:
+Context:
+Measures:
+
+The data for Part 1 came from Waves 5, 6, and 7 of the NLS, that we refer to here as T1, T2, and T3, respectively. In each wave, the longitudinal core and their classmates were invited to participate in a classroom data collection session at school (45– 60 min).
+
+Part 2 regarded associating the longitudinal clusters identified in Part 1 (across T1–T3) with the participant roles of bullying determined at T4
+
+At T1, participants completed the measures on paper. At T2–T4, data were collected by means of computerized assessments. The research assistants provided each child with a minilaptop computer that they used to fill in the questionnaire in their own classroom.
+
+Questions related to Social Status, social Behavior, Roles of Bullying and victimization
+
+### Meidenbauer, K. L., Cowell, J. M., Killen, M., & Decety, J. (2018). A Developmental Neuroscience Study of Moral Decision Making Regarding Resource Allocation. Child development, 89(4), 1177–1192. Retrieved from <http://dx.doi.org/10.1111/cdev.12698>
+
+Participants: parent, child Context: lab
+Measures: - Child - Resource Allocation Game - EEG
+- Display - computer screen
+- Response - keyboard press
+- First Person Allocation Task - “What would you do?” - Display - unknown - Response - unknown - a short survey to assess pubertal status (Pubertal Development Scale; Petersen, Crockett, Richards, & Boxer, 1988)
+- Display - unknown - Response - unknown - the Free Rice Game (optional) - Display - computer screen
+- Response - Button Press
+- Parent
+- Demographic reporting
+- Display - unknown
+- Response - unknown
+
+After arriving at the laboratory, parents completed demographic reporting about their child and themselves.
+
+the Resource Allocation Game began while EEG was recorded continuously. In each block of this game, children were shown pictures of schools or buildings that looked dilapidated or wealthy (poor vs. rich) and a description of the two resources (referred to as “gifts”) that corresponded to that set of places. child made his or her response on the keyboard.
+
+participants completed a follow-up questionnaire related to the Resource Allocation game,
+
+a short survey to assess pubertal status Pubertal Development Scale.
+
+and were given the option of playing the Free Rice Game.
+
+### Coe, J. L., Davies, P. T., & Sturge-Apple, M. L. (2018). Family Instability and Young Children’s School Adjustment: Callousness and Negative Internal Representations as Mediators. Child development, 89(4), 1193–1208. Retrieved from <http://dx.doi.org/10.1111/cdev.12793>
+
+Participants:
+Context:
+Measures:
+
+Participants included 243 families (mother, intimate partner, and preschool child)
+
+The longitudinal design consisted of three annual measurement occasions
+
+At Wave 1, mothers completed the Family Instability Questionnaire
+
+maternal report at Waves 1 and 2 on the Callousness scale of the Inventory of Callous-Unemotional Traits
+
+At Waves 1 and 2, children completed a revised version of the MacArthur Story Stem Battery (MSSB-R; Cummings et al., 2008). The MSSB-R consists of a series of story stems indexing conflicts and adversity in each of three family relationship subsystems: (a) mother–father (i.e., two stories: angry parental conflicts over losing keys and getting home later than expected), (b) mother–child (i.e., two stories: reunion following extensive separation, child injury after violating maternal instructions), and (c) father–child (i.e., two stories: reunion following extensive separation, child injury after violating paternal instructions). In depicting the story stems, experimenters used animated voices, various toy props, and action figures depicting Family Instability and School Adjustment 1197 family members. After each story stem, children completed the stories with the action figures, props, and, when necessary, probes to maximize the richness of the narrative responses. - Coders assessed each of the six stories along two scales ranging from 1 (negligible) to 7 (high)
+
+Teacher reports on three scales from the MacArthur Health and Behavior Questionnaire (HBQ; Ablow et al., 1999) were used as indicators of a latent construct of children’s school adjustment at Waves 1 and 3.
+
+### Borriello, G. A., & Liben, L. S. (2018). Encouraging Maternal Guidance of Preschoolers’ Spatial Thinking During Block Play. Child development, 89(4), 1209–1222. Retrieved from <http://dx.doi.org/10.1111/cdev.12779>
+
+Participants:
+Context:
+Measures:
+
+We recruited 46 mothers and their preschool children
+
+Jigsaw Play Dyads were then given two simple five-piece wooden frame jigsaw puzzles (see Figure 1) and asked to play together as they would normally play at home
+
+Some received specific instructions and some did not
+
+LEGO Free Play Dyads in both groups were then given 5 min to play with a collection of about 150 LEGO pieces.
+
+LEGO Construction Mothers were given a booklet that showed 10 target LEGO structures and told that they would have 10 min to play together with their child to build as many of the structures as they could.
+
+Spatial language was coded from transcripts of the play sessions; all other behaviors were coded from videotaped recordings.
+
+### Golombok, S., Blake, L., Slutsky, J., Raffanello, E., Roman, G. D., & Ehrhardt, A. (2018). Parenting and the Adjustment of Children Born to Gay Fathers Through Surrogacy. Child development, 89(4), 1223–1233. Retrieved from <http://dx.doi.org/10.1111/cdev.12728>
+
+Participants:
+Context:
+Measures:
+
+The majority of families were assessed at home. However, 35% of gay father families and 42% of lesbian mother families were assessed by Skype because of the geographical distance from the researchers.
+
+Quality of Parenting Each parent was interviewed using an adaptation of a semistructured interview designed to assess quality of parenting that has been validated against observational
+
+Parent–Child Interaction Within each family, each parent–child dyad participated in an observational assessment of parent– child interaction. In order to avoid practice effects, the Etch-A-Sketch task (Stevenson-Hinde & Shouldice, 1995) was used with the parent who spent most time with the child, and the Co-Construction task (Steele et al., 2007) was used with the other parent
+
+Perceived Stigma Perceived stigma was measured using the personalized stigma subscale of a measure originally developed by Berger, Ferrans, and Lashley (2001) to assess HIV-related stigma and later modified for the assessment of stigma associated with being gay
+
+Children’s Adjustment The presence of children’s emotional and behavioral difficulties was assessed with the Strengths and Difficulties Questionnaire (SDQ; Goodman, 1994, 1997) administered to each parent to produce total scores of internalizing problems and externalizing problems
+
+The children’s externalizing and internalizing problems were also assessed during the interview with the parent who spent most time with the child or a parent selected at random in the families in which parenting was shared equally using a standardized procedure
+
+### Steinsbekk, S., Barker, E. D., Llewellyn, C., Fildes, A., & Wichstrøm, L. (2018). Emotional Feeding and Emotional Eating: Reciprocal Processes and the Influence of Negative Affectivity. Child development, 89(4), 1234–1246. Retrieved from <http://dx.doi.org/10.1111/cdev.12756>
+
+Participants:
+Context:
+Measures:
+
+All children of the 2003 and 2004 birth cohorts (n = 3,456) and their parents living in Trondheim, Norway
+
+complete a brief measure of emotional behavioral problems, the Strengths and Difficulties Questionnaire (SDQ; Goodman, 1997; Sveen, Berg-Nielsen, Lydersen, & Wichstrom, 2013) version 4-16
+
+study location: well-child clinic for the routine health check at age 4 years,
+
+Emotional Eating Emotional eating was measured using the emotional overeating subscale of the Norwegian version of Wardle et al.’s (2001) Children’s Eating Behaviour Questionnaire (CEBQ).
+
+Parent’s Emotional Feeding Parent’s emotional feeding was assessed using The Parent Feeding Style Questionnaire (PFSQ; Wardle, Sanderson, Guthrie, Rapoport, & Plomin, 2002)
+
+Negative Affectivity Negative affectivity was measured at age 4 by the Children’s Behavior Questionnaire (Rothbart et al., 2001). Negative affectivity is one of the three broad dimensions of temperament captured by the 195-item parent-reported questionnaire
+
+Children’s Weight Weight and height were measured by the health care nurse - used to calculate BMI
+
+### Swingley, D., & Humphrey, C. (2018). Quantitative Linguistic Predictors of Infants’ Learning of Specific English Words. Child development, 89(4), 1247–1267. Retrieved from <http://dx.doi.org/10.1111/cdev.12731>
+
+Participants:
+Context:
+Measures:
+
+Corpus materials were downloaded from the CHILDES repository
+
+recordings and transcripts for 8 children
+
+#### Juvonen, J., Kogachi, K., & Graham, S. (2018). When and How Do Students Benefit From Ethnic Diversity in Middle School? Child development, 89(4), 1268–1282. Retrieved from <http://dx.doi.org/10.1111/cdev.12834>
+
+Participants:
+Context:
+Measures:
+
+Participants were drawn from a larger sample of 5,991 sixth-grade students
+
+School ethnic diversity. School ethnic diversity was measured based on school-level ethnicity data collected from the CDE and using Simpson’s (1949) diversity index:
+
+Proportion same-ethnic peers in school. To be able to take into account the size of participants’ ethnic group, we relied on school-level race/ethnicity data from the CDE Web site.
+
+Parent education. As a proxy for student SES, the parent or guardian with whom the student lived was asked to complete a measure indicating their highest level of education
+
+Teacher-rated academic engagement. The extent to which students are engaged in their academic classes may be related to feelings of social vulnerability (Juvonen et al., 2006). We therefore controlled for teacher ratings of students’ engagement in one of their classes. For each participant, we recruited one sixth-grade teacher, who rated that student on the five-item Teacher Report of Engagement Questionnaire (Wellborn & Connell, 1991).
+
+Perceived school safety. The six-item school safety subscale from the Effective School Battery (Gottfredson, 1986) was used to assess how safe students felt in school.
+
+Self-perceived peer victimization. Perceptions of personal experiences of victimization by peers were measured using a modified four-item version of the Peer Victimization Survey
+
+Loneliness. Relying on five items of the measure developed by Asher and Wheeler (1985), we 1272 Juvonen, Kogachi, and Graham assessed loneliness and social dissatisfaction.
+
+Perceptions of teachers’ fair and equal treatment. To capture student perceptions of teachers’ fair and equal treatment of all ethnic groups, we relied on three items from the School Interracial Climate Scale (Green, Adams, & Turner, 1988) that examine the extent to which youth felt that the teachers in their school treated all students the same
+
+Ethnic out-group distance. Ethnic out-group distance was computed using 16 items assessing the degree to which students wanted to associate with ethnic in-group and out-group members
+
+### Chevalier, N. (2018). Willing to Think Hard? The Subjective Value of Cognitive Effort in Children. Child development, 89(4), 1283–1295. Retrieved from <http://dx.doi.org/10.1111/cdev.12805>
+
+Participants:
+Context:
+Measures:
+
+Study 1
+
+Children completed a childappropriate version of the COG-ED, adapted from Westbrook et al. (2013). The COG-ED, which was run with E-Prime 2 (Psychology Software Tools, Pittsburgh, PA)
+
+Child adaptation of the cognitive effort discounting (COG-ED) paradigm. (A) In the first phase, children experienced three Nback tasks of increasing difficulty, 1-back (blue game—low difficulty), 2-back (red game—intermediate difficulty), and 3-back (green game—high difficulty). They had to press a button when the current picture matched the picture presented one, two, or three trials back, respectively. (B) In the second phase, children had to choose between the easy 1-back task for a smaller reward (left) and a harder task (either 2- or 3-back) for a greater reward (right) (2 runs of 6 choices each).
+
+Finally, in Phase 3, children played short series (16 pictures) of N-back tasks corresponding to two of their choices (one from each choice run) and were told how many points they accumulated.
+
+Bilateral pupil dilation was recorded while children played the three N-back tasks in Phase 1 with a Tobii TX300 eye tracker
+
+Study 2
+
+A trained experimenter tested children individually in a quiet room of their after-school club. Children first rated the attractiveness of potential prizes (stationary items) on a 5-point Likert scale
+
+They then completed the same COG-ED paradigm as in Study 1, except that pupil dilation was not recorded during the game. As a consequence, the 10-s fixation cross before each run in Phase 1 was removed. Children completed COGED on a laptop and entered responses by pressing the “0” key on the keyboard instead of a gamepad button
+
+children completed an AX-CPT task to assess proactive control engagement The AX-CPT, adapted from Chatham et al. (2009), was run using E-Prime 2 pressing buttons on the keyboard.
+
+the Need for Cognition Scale (NCS) to assess trait interest in effortful activities The short form of the Need for Cognition Scale (NCS; Cacioppo et al., 1996) was administered in an interview format
+
+### Hughes, C., Devine, R. T., & Wang, Z. (2018). Does Parental Mind-Mindedness Account for Cross-Cultural Differences in Preschoolers’ Theory of Mind? Child development, 89(4), 1296–1310. Retrieved from <http://dx.doi.org/10.1111/cdev.12746>
+
+parent–child dyads
+
+Parents and children took part in a session lasting up to 90 min in an observation laboratory at each university.
+
+Children’s False Belief Understanding The children completed four tasks designed to measure individual differences in false belief understanding.
+
+Children’s Language Ability the Bus Story Test (Renfrew, 1997; Stokes & Wong, 1996).
+
+Children’s Nonverbal Ability To provide an index of nonverbal ability, the children in both sites completed the object assembly task from the Wechsler Preschool and Primary Scale of Intelligence (Wechsler, 2003). In this task, participants were required to assemble a set of twodimensional puzzles depicting cartoon images of objects (e.g., bird, clock, car, fish).
+
+Parental Mind-Mindedness Consistent with previous studies of preschoolaged children, we used a brief interview to obtain a representational measure of parental mind-mindedness (Meins & Fernyhough, 2015). Parents’ responses were recorded using a digital recording device and later transcribed verbatim.
+
+### Legette, K. (2018). School Tracking and Youth Self-Perceptions: Implications for Academic and Racial Identity. Child development, 89(4), 1311–1327. Retrieved from <http://dx.doi.org/10.1111/cdev.12748>
+
+Participants:
+Context:
+Measures:
+
+7th graders
+
+Parents were given the option to have their children interviewed at school, their home, or the university near the middle school. Most interviews lasted an hour and occurred at participants’ homes, with a few taking place at the middle school after school
+
+Interviews were audio recorded, transcribed, and uploaded into NVIVO, a qualitative software program used for data management, coding, and analyses
+
+### Gardner-Neblett, N., & Sideris, J. (2018). Different Tales: The Role of Gender in the Oral Narrative-Reading Link Among African American Children. Child development, 89(4), 1328–1342. Retrieved from <http://dx.doi.org/10.1111/cdev.12803>
+
+Participants:
+Context:
+Measures:
+
+Preschool Oral Narrative Skill Children’s oral narratives were measured when children were 48 months old using a story generation task with a wordless book as a prop. Children were prompted by a researcher to look at the pictures and tell a story after looking through the book.
+
+Narratives were audio recorded and transcribed for scoring.
+
+Reading Comprehension The Woodcock–Johnson Psycho-Educational Battery–Revised (WJ–R; Woodcock & Johnson, 1989) was administered during laboratory visits to assess children’s reading comprehension. The current study used the passage comprehension subtest to measure children’s reading comprehension each year from first to sixth grades.
+
+Quality of the home environment. The quality of the home environment was measured using the Home Observation for Oral Narratives and Reading Achievement 1333 Measurement of the Environment (HOME; Caldwell & Bradley, 1984) The HOME is a 45-item semistructured observation and interview with six subscales: emotional and verbal responsiveness of the parent, acceptance of the child’s behavior, organization of the environment, provision of appropriate play materials, maternal involvement with the child, and variety in daily experience
+
+Maternal education The level of mother’s education was measured as a continuous variable of the number of years of education at study entry
+
+Decoding skill. Children’s decoding skills were used as a covariate to account for the association between decoding and reading skills (Reese, Suggate, et al., 2010). To measure children’s decoding skills, the letter–word identification subtest of the WJ–R (Woodcock & Johnson, 1989) was used
+
+### Jambon, M., & Smetana, J. G. (2018). Individual Differences in Prototypical Moral and Conventional Judgments and Children’s Proactive and Reactive Aggression. Child development, 89(4), 1343–1359. Retrieved from <http://dx.doi.org/10.1111/cdev.12757>
+
+Participants:
+Context:
+Measures:
+
+structured interviews were conducted to assess children’s moral and conventional judgments. Interview scripts and all visual stimuli are included in Appendix S1.
+
+Story Stimuli Children were presented with four hypothetical vignettes depicting everyday moral and conventional transgressions (two each). Each vignette presentation consisted of four story pictures: rule introduction, actor goal, transgression, and outcome
+
+Initial Judgments After each transgression, children’s initial judgments of the act’s acceptability were assessed
+
+Reactive Aggression Teachers reported on children’s reactive aggression using six items from the physical and relational subscales of the Preschool Proactive and Reactive Aggression–Teacher Report (PPRA–T; Ostrov & Crick, 2007). I
+
+Proactive Aggression Teachers also completed proactive subscales from the PPRA–T.
+
+Participating children were interviewed individually in a separate area of their school or day care. Most teachers (14 of 18) completed online surveys regarding children’s behavior; the rest completed paper surveys. Child interviews were conducted on an iPad using the online survey software SurveyGizmo. This allowed for an interactive experience where children were able to point and choose different answer responses
+
+### Ferguson, G. M., Muzaffar, H., Iturbide, M. I., Chu, H., & Meeks Gardner, J. (2018). Feel American, Watch American, Eat American? Remote Acculturation, TV, and Nutrition Among Adolescent-Mother Dyads in Jamaica. Child development, 89(4), 1360–1377. Retrieved from <http://dx.doi.org/10.1111/cdev.12808>
+
+Participants:
+Context:
+Measures:
+
+Only adolescents who returned a signed parental consent form, a completed mother questionnaire, and completed an assent form were given a student questionnaire to complete in designated rooms after school.
+
+Behavioral preferences. For brevity, a three-item version of the original nine-item European American orientation (sub)scale from the Acculturation Rating Scale Jamaican Americans was used (ARSJA; Ferguson, Bornstein, & Pottinger, 2012).
+
+Identity. An adapted version of the four-item American Identity subscale of the Language, Identity and Behavioral Acculturation Scale (aadolescent = .88, amother = .78; Birman & Trickett, 2001) was used.
+
+U.S.-Produced Cable TV Consumption Using two items adapted from the HABITS questionnaire (Wright et al., 2011), participants reported the daily time spent watching U.S.-produced cable TV on a typical weekday and on a weekend in the past month
+
+Unhealthy Eating Four items were adapted from the national Jamaican Youth Risk and Resiliency Behaviour Survey 2006 (aadolescent = .53, amother = .57; Wilks et al., 2007) on which participants rated the frequency of eating four categories of unhealthy foods regardless of the setting in which it was consumed: soda/ sweetened drinks, pastries, fried meats, and fast food
+
+### Choi, K., Kirkorian, H. L., & Pempek, T. A. (2018). Understanding the Transfer Deficit: Contextual Mismatch, Proactive Interference, and Working Memory Affect Toddlers’ Video-Based Transfer. Child development, 89(4), 1378–1393. Retrieved from <http://dx.doi.org/10.1111/cdev.12810>
+
+Participants:
+Context:
+Measures:
+
+Participants were 42 toddlers between 27 and 34.5 months of age (55% female).
+
+Participants were randomly assigned Understanding the Transfer Deficit 1381 to one of two conditions: mismatch (n = 22, 64% female; Mage = 31.18 months) and match (n = 20, 45% female; Mage = 30.35 months).
+
+Object-Retrieval Task
+
+In this study, the video stimuli were displayed on touch-screen tablet computers (10.1-in. Galaxy Tab; Samsung America, San Jose, CA) using a mobile application that was developed for this project. The video included images of four hiding locations (4 9 4 cm each) and a cartoon bear (2.5 9 2.7 cm). The same tablet was used to display videos for hiding events in both conditions
+
+In the match condition, a second tablet device was used to present videos for search events. The experimenter asked the child to touch an object on the screen to search for the bear, which triggered an animation of the object moving upward to reveal what was underneath.
+
+In the mismatch condition, a felt board was used for search events. The felt board had the same dimensions and appearance as the video hiding space.
+
+A video camera was located behind the child to record the child’s behavior in both conditions.
+
+Working Memory
+
+To assess WM, we used the Spin the Pots task, which has been used in previous studies with 2-year-old participants (Bernier, Carlson, & Whipple, 2010; Brito, Grenell, & Barr, 2014; Hughes & Ensor, 2005). A set of eight visually distinct boxes (e.g., jewelry boxes, decorated wooden boxes) was arranged on a round mat (see Figure 3).
+
+the experimenter hid six stickers in eight different boxes in the child’s view, leaving two additional boxes empty. The experimenter covered the boxes with a cloth and rotated the mat 180°. Then the experimenter removed the cloth and asked the child to find a sticker. The child searched for one sticker at a time. After each search attempt, the experimenter covered the boxes and rotated the mat 180°. An observer recorded the chosen boxes on a score sheet. The task ended when all six stickers were found or after 16 attempts, whichever came first.
+
+Receptive Vocabulary
+
+The Receptive OneWord Picture Vocabulary Test, fourth edition, was used to measure each child’s receptive vocabulary (Martin & Brownell, 2010).
+
+The experimenter showed one page of a flipbook at a time. Each page had four pictures on it (see Figure 3). The experimenter asked the child to point to one of the four pictures that matched the word (e.g., “Fish. Which one is the fish?”)
+
+Parent Survey
+
+Parents were asked to complete an online questionnaire that requested demographic information including parent’s education and child’s race and ethnicity. The survey also included items about the child’s media use at home: Parents reported whether they allow their child to use mobile touchscreen devices (e.g., iPad) and how much time their child spent doing different media-related activities (e.g., watching television, using a mobile touchscreen device) on the previous day.
+
+### Azañón, E., Camacho, K., Morales, M., & Longo, M. R. (2018). The Sensitive Period for Tactile Remapping Does Not Include Early Infancy. Child development, 89(4), 1394–1404. Retrieved from <http://dx.doi.org/10.1111/cdev.12813>
+
+Participants:
+Context:
+Measures:
+
+Fourteen children treated for dense bilateral con-genital cataracts before the age of 5 months weretested in the facilities of the Sant Joan de Deu Chil-dren’s Hospital
+
+temporal order judgment (TOJ) task
+
+Tactile stimuli consisted of two vibrotactile stim-uli at suprathreshold intensity delivered throughOticon bone conductors (sized about 1.6 9 1 9.8 cm; Type BC 461–012, Oticon, Ltd., Milton Key-nes, UK). The stimulation was controlled usingDMDX (Forster & Forster, 2003) and presented for35 ms with a frequency of 200 Hz. Each tactilestimulus was inserted inside the body of a smallcuddly toy (~ 13 cm in length and ~ 4 cm wide).Both toys were identical, except for a piece of clothplaced around the neck that differed in color. A toywas held with each hand, and the hands were posi-tioned in front of the participant at a comfortabledistance, either crossed or uncrossed.
+
+Par-ticipants were asked to sit in front of a computerscreen (13 in. laptop) and hold a toy with each hand.The arms were positioned either uncrossed orcrossed over the body midline in front of the partici-pant. Participants were asked to make unspeeded judgments of which stimulus came ﬁrst and move the hand holding the toy that was stimulated ﬁrst. In the case of the children, they were told that they were the judge of a race between the two toys and that they should report the winner of each race.
+
+Everytrial started with the appearance of a picture ofSpider-Man or a tiger centrally located on the screen,followed 1 s later by the ﬁrst tactile stimulus. Partici-pants were instructed to ﬁxate on the central ﬁgure.
+
+Responses from the participants were recorded by the experimenter on the keyboa rd.
+
+### Häfner, I., Flunger, B., Dicke, A.-L., Gaspard, H., Brisson, B. M., Nagengast, B., & Trautwein, U. (2018). The Role of Family Characteristics for Students’ Academic Outcomes: A Person-Centered Approach. Child development, 89(4), 1405–1422. Retrieved from <http://dx.doi.org/10.1111/cdev.12809>
+
+Participants:
+Context:
+Measures:
+
+Data from students and their parents were collected as part of the large study “Motivation in Mathematics” in German academic track schools in Baden-Wuerttemberg between 2012 and 2013. The data set used in the current study involved 1,978 ninth-grade students enrolled in 82 classrooms in 25 schools
+
+Family characteristics measures were assessed at the beginning of the ninth grade (T1) using the parent questionnaire. Except for family interest and SES indicators, all family characteristics refer to the parent filling out the questionnaire.
+
+Students’ motivation was measured at T1 and 5 months later (T2).
+
+Students’ grades were collected at the end of eighth grade, the middle of ninth grade, and the end of ninth grade.
+
+In addition, students completed achievement tests at both time points. The achievement test at T1 was conducted at the beginning of ninth grade and is a standardized math achievement test administered to all ninth-grade students in the state. The achievement test at T2 was a speed test (Schmidt, Ennemoser, & Krajewski, 2012), which consisted of 50 exercises including typical math operations and measured fluency at solving math operations
+
+### Herle, M., Fildes, A., Rijsdijk, F., Steinsbekk, S., & Llewellyn, C. (2018). The Home Environment Shapes Emotional Eating. Child development, 89(4), 1423–1434. Retrieved from <http://dx.doi.org/10.1111/cdev.12799>
+
+Participants:
+Context:
+Measures:
+
+All participants were drawn from Gemini (<http://www.geministudy.co.uk/>); a populationbased twin birth cohort setup in 2007 to investigate genetic and environmental influences on early growth
+
+Baseline questionnaire
+
+Two thousand four hundred and two families completed the baseline questionnaire; the baseline sample included 749 MZ pairs and 1,616 dizygotic (
+
+Follow-up questionnaires were sent to families when children were 16 months and 5 years old.
+
+EOE was measured using the “emotional overeating” scale of the parent-reported Child Eating Behavior Questionnaire (CEBQ; Wardle et al., 2001). The CEBQ is a parent-reported questionnaire that consists of 35 items that describe a range of children’s eating behaviors
+
+Gestational age was reported by parents.
+
+Information on weight at birth was taken from the child’s personal health record and reported by parents.
+
+Age of the child at EOE measurement was calculated from their date of birth and the date of questionnaire completion. Opposite-sex twin pairs were classified as DZ. Parents of same-sex twins completed a 20-item questionnaire to establish their zygosity.
+
+E‐ONLY ARTICLES
+---------------
+
+-   not completed \#\#\# Empirical Reports: 3 \#\#\# Empirical Articles: 7
+
+Not in this issue
+-----------------
+
+### Early View Article
+
+### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from <http://dx.doi.org/10.1111/cdev.13124>
+
+video-recorded observational assessment of parent– child interaction and an audio-recorded standardized interview that lasted approximately 1.5 hr.
+
+A free play task was used to obtain an observational assessment of mother–infant and father–infant interaction. Each parent was instructed to play with the infant for 10 min in whatever manner and using whichever toys, they used when they usually played together. The session was video recorded and coded using the fourth edition of the Emotional Availability (EA) Scales (Biringen, 2008). EA refers to the capacity of a dyad to share an emotionally healthy relationship
+
+Mothers and fathers were interviewed separately using an adaptation of the Parent Development Interview (PDI

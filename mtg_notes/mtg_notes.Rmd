@@ -2,7 +2,7 @@
 title: "meeting_notes"
 author: "Rick Gilmore & Andrea Seisler"
 date: "`r Sys.time()`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

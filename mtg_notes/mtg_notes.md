@@ -1,0 +1,45 @@
+meeting\_notes
+================
+Rick Gilmore & Andrea Seisler
+2018-10-26 09:07:18
+
+2018-07-31
+----------
+
+-   Who
+    -   Rick and Andrea
+-   Reports
+    -   GitHub project
+    -   Asana tasks
+        -   AS creating subtasks for Developmental, then clone to other areas
+-   Action items
+    -   AS send ROG Asana invite to ROG's work gmail account.
+    -   AS drafting protocol
+        -   How select journals
+            -   **Child Development**
+            -   Developmental Psychology
+            -   **Developmental Science**
+            -   Journal of Experimental Child Psychology (JECP)
+            -   **Infancy**
+            -   Infant Behavior and Development
+        -   How to analyze papers and studies
+            -   Contexts
+                -   lab, home, school, museum
+            -   Displays, environments
+                -   computer, lab task
+            -   Measures
+                -   video, eye tracking, keyboard, mouse, EEG, survey, observational ratings
+            -   How collected
+        -   How to code relevant data
+    -   ROG read paper
+    -   AS start piloting scheme on articles from most recent issue of the highlighted journals.
+
+2018-08-14
+----------
+
+-   There is some difficulty in finding some information in the articles
+-   Location of study (e.g. Home, Lab, Museum)
+-   response type (verbal, written, computer)
+-   The actual questions used in a questionnaire or subscale of a questionnaire
+-   How was the questionnaire given (paper/pencil, computer, verbal)? Most times, not listed at all
+-   Listed a measure in the beginning of the methods, but never explained the measure in detail
