@@ -272,12 +272,12 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |  
 |---|---|---|---|---|
-||Paper Questionnaire|Self report assessment|Child|Grades 3-5 only|
+||Self report assessment|Paper Questionnaire|Child|Grades 3-5 only|
 ||One on One Interview - Role Playing| measure academic self-concepts|Child|Grades K-2 only|
 ||Group Interview (up to 6 children)| measure academic self-concepts|Child| Grades 3-5 only|
-||Child Implicit Association Test (IAT)|Sorting Task|Child| Grades K-5|
-||School Records|absenteeism|Records|Grades K-5|
-||School Records|year end report card|Records|Grades K-5|
+||[Child Implicit Association Test (IAT)](https://www.millisecond.com/download/library/iat/childiat/)|Sorting Task|Child| Grades K-5|
+||absenteeism|School Records|Records|Grades K-5|
+||year end report card|School Records|Records|Grades K-5|
 ||Child Behavior Checklist (1/child)| Teachers’ Ratings of Student Behavior| Teacher|Grades K-5|
 
 The study took place at an elementary school on
@@ -344,9 +344,9 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |  
 |---|---|---|---|---|
-||||Child|5-7 year old|
-||||Child|11-13 year old|
-||||Adult|age not given|
+||View Image and Evaluate Explanation (9 Physicis or 9 Biology)[Table 1](https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804)|Interview|Child|5-7 year old|
+||View Image and Evaluate Explanation (9 Physicis or 9 Biology)[Table 1](https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804)|Interview|Child|11-13 year old|
+||View Image and Evaluate Explanation (9 Physicis or 9 Biology)[Table 1](https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804)|Interview|Adult|age not given (Mechanical Turk)|
 
 For each domain, we developed explanations for
 nine phenomena that were broadly applicable to

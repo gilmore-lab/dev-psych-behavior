@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-12-03 10:12:20
+2018-12-03 10:28:35
 
 Volume 89, Issue 4
 ------------------
@@ -437,8 +437,8 @@ Measures:
 <tbody>
 <tr class="odd">
 <td></td>
-<td>Paper Questionnaire</td>
 <td>Self report assessment</td>
+<td>Paper Questionnaire</td>
 <td>Child</td>
 <td>Grades 3-5 only</td>
 </tr>
@@ -458,22 +458,22 @@ Measures:
 </tr>
 <tr class="even">
 <td></td>
-<td>Child Implicit Association Test (IAT)</td>
+<td><a href="https://www.millisecond.com/download/library/iat/childiat/">Child Implicit Association Test (IAT)</a></td>
 <td>Sorting Task</td>
 <td>Child</td>
 <td>Grades K-5</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>School Records</td>
 <td>absenteeism</td>
+<td>School Records</td>
 <td>Records</td>
 <td>Grades K-5</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>School Records</td>
 <td>year end report card</td>
+<td>School Records</td>
 <td>Records</td>
 <td>Grades K-5</td>
 </tr>
@@ -516,11 +516,47 @@ Measures:
 - view photo then explanation for phenomena (9 physics or 9 biology) - Display - Experimenter in person Interview
 - Response - Verbal
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |
-|-------|-------|-----------|------------|-----------------|
-|       |       |           | Child      | 5-7 year old    |
-|       |       |           | Child      | 11-13 year old  |
-|       |       |           | Adult      | age not given   |
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>View Image and Evaluate Explanation (9 Physicis or 9 Biology)<a href="https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804">Table 1</a></td>
+<td>Interview</td>
+<td>Child</td>
+<td>5-7 year old</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>View Image and Evaluate Explanation (9 Physicis or 9 Biology)<a href="https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804">Table 1</a></td>
+<td>Interview</td>
+<td>Child</td>
+<td>11-13 year old</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>View Image and Evaluate Explanation (9 Physicis or 9 Biology)<a href="https://onlinelibrary-wiley-com.ezaccess.libraries.psu.edu/doi/10.1111/cdev.12804">Table 1</a></td>
+<td>Interview</td>
+<td>Adult</td>
+<td>age not given (Mechanical Turk)</td>
+</tr>
+</tbody>
+</table>
 
 For each domain, we developed explanations for nine phenomena that were broadly applicable to either all animals or all things.
 
