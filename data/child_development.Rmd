@@ -342,6 +342,12 @@ Measures:
     - Response - Verbal     
 
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |  
+|---|---|---|---|---|
+||||Child|5-7 year old|
+||||Child|11-13 year old|
+||||Adult|age not given|
+
 For each domain, we developed explanations for
 nine phenomena that were broadly applicable to
 either all animals or all things.
@@ -428,6 +434,11 @@ Measures:
   - 2/3 view video, 1/3 no video  
   - provide judgement/belief ratings - response is likely verbal  
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+|Study Group|Watch Video + Belief Ratings|interview (questions provided in supporting information)|Child|3.5-8.5 years old|  
+|Baseline Group|Belief Ratings|interview (questions provided in supporting information)|Child|3.5-8.5 years old|  
+
 Children ranging from 3.5 to 8.5 years in age
 (n = 161, 96 boys) were interviewed at a museum
 in Cambridge, Massachusetts (n = 122; Mage = 5.
@@ -471,6 +482,10 @@ Measures:
   - Video (bird's eye view)  
   - Coding  
     - codes for movement of caregiver arm
+    
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
       
 One hundred and thirty caregiver–toddler dyads
 were recruited via flyers and word of mouth from
@@ -517,6 +532,9 @@ own classroom.
 
 Questions related to Social Status, social Behavior, Roles of Bullying and victimization
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 ### Meidenbauer, K. L., Cowell, J. M., Killen, M., & Decety, J. (2018). A Developmental Neuroscience Study of Moral Decision Making Regarding Resource Allocation. Child development, 89(4), 1177–1192. Retrieved from http://dx.doi.org/10.1111/cdev.12698
 
 Participants: parent, child
@@ -540,6 +558,9 @@ Measures:
   - Demographic reporting  
     - Display - unknown  
     - Response - unknown  
+    
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 After arriving at the laboratory, parents completed
 demographic reporting about their child and
@@ -570,6 +591,9 @@ the Free Rice Game.
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Participants included 243 families (mother, intimate
 partner, and preschool child)
@@ -619,6 +643,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 We recruited 46 mothers and their preschool
 children
 
@@ -649,6 +676,9 @@ from videotaped recordings.
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 The majority of families were assessed at home.
 However, 35% of gay father families and 42% of
@@ -700,6 +730,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 All children of the 2003 and 2004 birth cohorts
 (n = 3,456) and their parents living in Trondheim,
 Norway
@@ -741,6 +774,9 @@ by the health care nurse - used to calculate BMI
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Corpus materials were downloaded from the
 CHILDES repository
@@ -815,6 +851,9 @@ ethnic in-group and out-group members
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Study 1
 
@@ -905,6 +944,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 7th graders
 
 Parents were given the option to
@@ -924,6 +966,9 @@ analyses
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Preschool Oral Narrative Skill
 Children’s oral narratives were measured when
@@ -973,6 +1018,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 structured interviews were conducted to
 assess children’s moral and conventional judgments.
 Interview scripts and all visual stimuli are
@@ -1017,6 +1065,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 Only adolescents who returned a signed parental
 consent form, a completed mother questionnaire,
 and completed an assent form were given a
@@ -1057,6 +1108,9 @@ food
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Participants were 42 toddlers between 27 and
 34.5 months of age (55% female).
@@ -1150,6 +1204,9 @@ Participants:
 Context:     
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
+
 Fourteen children treated for dense bilateral con-genital cataracts before the age of 5 months weretested in the facilities of the Sant Joan de Deu Chil-dren’s Hospital 
 
 temporal order judgment (TOJ) task
@@ -1167,6 +1224,9 @@ Responses from the participants were recorded by the experimenter on the keyboa 
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 Data from students and their parents were collected
 as part of the large study “Motivation in
@@ -1205,6 +1265,9 @@ operations
 Participants:  
 Context:     
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 All participants were drawn from Gemini
 (http://www.geministudy.co.uk/); a populationbased
@@ -1253,6 +1316,9 @@ zygosity.
 ### Early View Article
 
 ### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from http://dx.doi.org/10.1111/cdev.13124
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |   
+|---|---|---|---|---|  
 
 video-recorded observational assessment of parent–
 child interaction and an audio-recorded standardized

@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-10-26 09:23:39
+2018-12-03 10:12:20
 
 Volume 89, Issue 4
 ------------------
@@ -516,6 +516,12 @@ Measures:
 - view photo then explanation for phenomena (9 physics or 9 biology) - Display - Experimenter in person Interview
 - Response - Verbal
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+|       |       |           | Child      | 5-7 year old    |
+|       |       |           | Child      | 11-13 year old  |
+|       |       |           | Adult      | age not given   |
+
 For each domain, we developed explanations for nine phenomena that were broadly applicable to either all animals or all things.
 
 Participants either evaluated all nine biology items or all nine physics items.
@@ -561,6 +567,41 @@ Measures:
 - 2/3 view video, 1/3 no video
 - provide judgement/belief ratings - response is likely verbal
 
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Study Group</td>
+<td>Watch Video + Belief Ratings</td>
+<td>interview (questions provided in supporting information)</td>
+<td>Child</td>
+<td>3.5-8.5 years old</td>
+</tr>
+<tr class="even">
+<td>Baseline Group</td>
+<td>Belief Ratings</td>
+<td>interview (questions provided in supporting information)</td>
+<td>Child</td>
+<td>3.5-8.5 years old</td>
+</tr>
+</tbody>
+</table>
+
 Children ranging from 3.5 to 8.5 years in age (n = 161, 96 boys) were interviewed at a museum in Cambridge, Massachusetts (n = 122; Mage = 5. 7 years, Range: 3.5–8.3), and in school or home settings in California’s bay area
 
 Approximately two thirds of the children watched videos in which informants made claims about events; after each video children judged the likelihood that those events could really occur. Belief ratings were scored such that 0 = very sure the event could not happen, 0.33 = a little sure the event could not happen, 0.66 = a little sure the event could happen, and 1.00 = very sure the event could happen.
@@ -585,6 +626,9 @@ Measures: - Coviewing task (both watch slideshow and caregiver explain pictures 
 -   Coding
     -   codes for movement of caregiver arm
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 One hundred and thirty caregiver–toddler dyads were recruited via flyers and word of mouth from the New York City metropolitan area or the Central District of Israel. The Americans participated at a children’s museum or in a laboratory setting, and all Israelis participated in their homes.
 
 Coviewing Task: The dyads viewed a slideshow consisting of 12 images; The stimuli were presented via keynote A camera was positioned above the participants’ head giving a bird’s-eye view of the area between the participants and the computer screen.
@@ -605,6 +649,9 @@ At T1, participants completed the measures on paper. At T2–T4, data were colle
 
 Questions related to Social Status, social Behavior, Roles of Bullying and victimization
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 ### Meidenbauer, K. L., Cowell, J. M., Killen, M., & Decety, J. (2018). A Developmental Neuroscience Study of Moral Decision Making Regarding Resource Allocation. Child development, 89(4), 1177–1192. Retrieved from <http://dx.doi.org/10.1111/cdev.12698>
 
 Participants: parent, child Context: lab
@@ -618,6 +665,9 @@ Measures: - Child - Resource Allocation Game - EEG
 - Demographic reporting
 - Display - unknown
 - Response - unknown
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 After arriving at the laboratory, parents completed demographic reporting about their child and themselves.
 
@@ -634,6 +684,9 @@ and were given the option of playing the Free Rice Game.
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 Participants included 243 families (mother, intimate partner, and preschool child)
 
@@ -653,6 +706,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 We recruited 46 mothers and their preschool children
 
 Jigsaw Play Dyads were then given two simple five-piece wooden frame jigsaw puzzles (see Figure 1) and asked to play together as they would normally play at home
@@ -671,6 +727,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 The majority of families were assessed at home. However, 35% of gay father families and 42% of lesbian mother families were assessed by Skype because of the geographical distance from the researchers.
 
 Quality of Parenting Each parent was interviewed using an adaptation of a semistructured interview designed to assess quality of parenting that has been validated against observational
@@ -688,6 +747,9 @@ The children’s externalizing and internalizing problems were also assessed dur
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 All children of the 2003 and 2004 birth cohorts (n = 3,456) and their parents living in Trondheim, Norway
 
@@ -708,6 +770,9 @@ Children’s Weight Weight and height were measured by the health care nurse - u
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 Corpus materials were downloaded from the CHILDES repository
 
@@ -744,6 +809,9 @@ Ethnic out-group distance. Ethnic out-group distance was computed using 16 items
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 Study 1
 
@@ -785,6 +853,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 7th graders
 
 Parents were given the option to have their children interviewed at school, their home, or the university near the middle school. Most interviews lasted an hour and occurred at participants’ homes, with a few taking place at the middle school after school
@@ -796,6 +867,9 @@ Interviews were audio recorded, transcribed, and uploaded into NVIVO, a qualitat
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 Preschool Oral Narrative Skill Children’s oral narratives were measured when children were 48 months old using a story generation task with a wordless book as a prop. Children were prompted by a researcher to look at the pictures and tell a story after looking through the book.
 
@@ -815,6 +889,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 structured interviews were conducted to assess children’s moral and conventional judgments. Interview scripts and all visual stimuli are included in Appendix S1.
 
 Story Stimuli Children were presented with four hypothetical vignettes depicting everyday moral and conventional transgressions (two each). Each vignette presentation consisted of four story pictures: rule introduction, actor goal, transgression, and outcome
@@ -833,6 +910,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 Only adolescents who returned a signed parental consent form, a completed mother questionnaire, and completed an assent form were given a student questionnaire to complete in designated rooms after school.
 
 Behavioral preferences. For brevity, a three-item version of the original nine-item European American orientation (sub)scale from the Acculturation Rating Scale Jamaican Americans was used (ARSJA; Ferguson, Bornstein, & Pottinger, 2012).
@@ -848,6 +928,9 @@ Unhealthy Eating Four items were adapted from the national Jamaican Youth Risk a
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 Participants were 42 toddlers between 27 and 34.5 months of age (55% female).
 
@@ -885,6 +968,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 Fourteen children treated for dense bilateral con-genital cataracts before the age of 5 months weretested in the facilities of the Sant Joan de Deu Chil-dren’s Hospital
 
 temporal order judgment (TOJ) task
@@ -903,6 +989,9 @@ Participants:
 Context:
 Measures:
 
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
+
 Data from students and their parents were collected as part of the large study “Motivation in Mathematics” in German academic track schools in Baden-Wuerttemberg between 2012 and 2013. The data set used in the current study involved 1,978 ninth-grade students enrolled in 82 classrooms in 25 schools
 
 Family characteristics measures were assessed at the beginning of the ninth grade (T1) using the parent questionnaire. Except for family interest and SES indicators, all family characteristics refer to the parent filling out the questionnaire.
@@ -918,6 +1007,9 @@ In addition, students completed achievement tests at both time points. The achie
 Participants:
 Context:
 Measures:
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 All participants were drawn from Gemini (<http://www.geministudy.co.uk/>); a populationbased twin birth cohort setup in 2007 to investigate genetic and environmental influences on early growth
 
@@ -946,6 +1038,9 @@ Not in this issue
 ### Early View Article
 
 ### Imrie, S., Jadva, V., Fishel, S., & Golombok, S. (2018). Families Created by Egg Donation: Parent-Child Relationship Quality in Infancy. Child development. Retrieved from <http://dx.doi.org/10.1111/cdev.13124>
+
+| Study | Tasks | Construct | Respondent | Timepoint (Age) |
+|-------|-------|-----------|------------|-----------------|
 
 video-recorded observational assessment of parent– child interaction and an audio-recorded standardized interview that lasted approximately 1.5 hr.
 
