@@ -485,6 +485,8 @@ Measures:
     
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |   
 |---|---|---|---|---|  
+||Coviewing task|Video Recorded|Caregiver-toddler dyad|toddler (mean age = 26 months)|  
+||Story Construction|Video Recorded|Caregiver-toddler dyad|toddler (mean age = 26 months)|  
 
       
 One hundred and thirty caregiver–toddler dyads
@@ -561,6 +563,12 @@ Measures:
     
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |   
 |---|---|---|---|---|  
+||Resource Allocation Game|EEG + keyboard press|Child||
+||First Person Allocation Task||Child||
+||Pubertal Development Scale|Survey|Child||
+||Free Rice Game|Computer + button press|Child||
+||Demographics|Survey?|Parent||
+
 
 After arriving at the laboratory, parents completed
 demographic reporting about their child and

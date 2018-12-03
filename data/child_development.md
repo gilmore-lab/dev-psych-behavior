@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-12-03 10:28:35
+2018-12-03 10:37:56
 
 Volume 89, Issue 4
 ------------------
@@ -662,8 +662,40 @@ Measures: - Coviewing task (both watch slideshow and caregiver explain pictures 
 -   Coding
     -   codes for movement of caregiver arm
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |
-|-------|-------|-----------|------------|-----------------|
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Coviewing task</td>
+<td>Video Recorded</td>
+<td>Caregiver-toddler dyad</td>
+<td>toddler (mean age = 26 months)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Story Construction</td>
+<td>Video Recorded</td>
+<td>Caregiver-toddler dyad</td>
+<td>toddler (mean age = 26 months)</td>
+</tr>
+</tbody>
+</table>
 
 One hundred and thirty caregiver–toddler dyads were recruited via flyers and word of mouth from the New York City metropolitan area or the Central District of Israel. The Americans participated at a children’s museum or in a laboratory setting, and all Israelis participated in their homes.
 
@@ -702,8 +734,13 @@ Measures: - Child - Resource Allocation Game - EEG
 - Display - unknown
 - Response - unknown
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |
-|-------|-------|-----------|------------|-----------------|
+| Study | Tasks                        | Construct               | Respondent | Timepoint (Age) |
+|-------|------------------------------|-------------------------|------------|-----------------|
+|       | Resource Allocation Game     | EEG + keyboard press    | Child      |                 |
+|       | First Person Allocation Task |                         | Child      |                 |
+|       | Pubertal Development Scale   | Survey                  | Child      |                 |
+|       | Free Rice Game               | Computer + button press | Child      |                 |
+|       | Demographics                 | Survey?                 | Parent     |                 |
 
 After arriving at the laboratory, parents completed demographic reporting about their child and themselves.
 
