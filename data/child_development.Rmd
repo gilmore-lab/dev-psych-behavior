@@ -602,7 +602,9 @@ Context:
 Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |   
-|---|---|---|---|---|  
+|---|---|---|---|---| 
+||Family Instability Questionnaire|Survey|Mothers|Wave 1|
+||
 
 Participants included 243 families (mother, intimate
 partner, and preschool child)
