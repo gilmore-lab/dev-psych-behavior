@@ -605,13 +605,13 @@ Measures:
 |---|---|---|---|---| 
 ||Family Instability Questionnaire|Survey|Mothers|Wave 1|
 ||[Callousness scale of the Inventory of Callous-Unemotional Traits](http://labs.uno.edu/developmental-psychopathology/ICU.html)|Survey|Mother|Wave 1; Wave 2|
-||revised MacArthur Story Stem Battery(MSSB-R)||Children|Wave 1; Wave 2|
+||revised MacArthur Story Stem Battery (MSSB-R)||Children|Wave 1; Wave 2|
 ||Prosocial Behavior scale (MacArthur Health and Behavior Questionnaire)||Teacher Report|Wave 1; Wave 3|
 ||School Engagement scale (MacArthur Health and Behavior Questionnaire)||Teacher Report|Wave 1; Wave 3|
 ||Externalizing scale (MacArthur Health and Behavior Questionnaire)||Teacher Report|Wave 1; Wave 3|
 ||Demographics|Interview|Mothers|Wave 1|
 ||Physical Assault scales (Conflict Tactics Scale)||Mothers|Wave 1|
-||Psychological Aggression (Conflict Tactics Scale)||Mothers|Wave 1|
+||Psychological Aggression scale (Conflict Tactics Scale)||Mothers|Wave 1|
 ||Information and Word Reasoning subtests of the Wechsler Preschool and Primary Scale of Intelligence||Children|Wave 2|
 
 
@@ -665,6 +665,10 @@ Measures:
 
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |   
 |---|---|---|---|---|  
+||Jigsaw Puzzle Play|Videotaped|mother-child dyad|age 5|
+||LEGO Free Play|Videotaped|mother-child dyad|age 5|
+||LEGO Construction|Videotaped|mother-child dyad|age 5|
+
 
 We recruited 46 mothers and their preschool
 children

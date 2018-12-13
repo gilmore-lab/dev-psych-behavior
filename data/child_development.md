@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-12-13 14:32:44
+2018-12-13 14:59:30
 
 Volume 89, Issue 4
 ------------------
@@ -793,7 +793,7 @@ Measures:
 </tr>
 <tr class="odd">
 <td></td>
-<td>revised MacArthur Story Stem Battery(MSSB-R)</td>
+<td>revised MacArthur Story Stem Battery (MSSB-R)</td>
 <td></td>
 <td>Children</td>
 <td>Wave 1; Wave 2</td>
@@ -835,7 +835,7 @@ Measures:
 </tr>
 <tr class="odd">
 <td></td>
-<td>Psychological Aggression (Conflict Tactics Scale)</td>
+<td>Psychological Aggression scale (Conflict Tactics Scale)</td>
 <td></td>
 <td>Mothers</td>
 <td>Wave 1</td>
@@ -868,8 +868,11 @@ Participants:
 Context:
 Measures:
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |
-|-------|-------|-----------|------------|-----------------|
+| Study | Tasks              | Construct  | Respondent        | Timepoint (Age) |
+|-------|--------------------|------------|-------------------|-----------------|
+|       | Jigsaw Puzzle Play | Videotaped | mother-child dyad | age 5           |
+|       | LEGO Free Play     | Videotaped | mother-child dyad | age 5           |
+|       | LEGO Construction  | Videotaped | mother-child dyad | age 5           |
 
 We recruited 46 mothers and their preschool children
 
