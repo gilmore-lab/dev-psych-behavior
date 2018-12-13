@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-12-13 14:06:24
+2018-12-13 14:32:44
 
 Volume 89, Issue 4
 ------------------
@@ -737,11 +737,11 @@ Measures: - Child - Resource Allocation Game - EEG
 | Study | Tasks                        | Construct               | Respondent | Timepoint (Age) |
 |-------|------------------------------|-------------------------|------------|-----------------|
 |       | Resource Allocation Game     | EEG + keyboard press    | Child      | 8-16 years old  |
-|       | Follow up Game Questionnaire |                         |
+|       | Follow up Game Questionnaire | Survey                  | Child      | 8-16 years old  |
 |       | First Person Allocation Task |                         | Child      | 8-16 years old  |
 |       | Pubertal Development Scale   | Survey                  | Child      | 8-16 years old  |
 |       | Free Rice Game               | Computer + button press | Child      | 8-16 years old  |
-|       | Demographics                 | Survey?                 | Parent     |                 |
+|       | Demographics                 | Survey                  | Parent     |                 |
 
 After arriving at the laboratory, parents completed demographic reporting about their child and themselves.
 
@@ -759,10 +759,96 @@ Participants:
 Context:
 Measures:
 
-| Study | Tasks                            | Construct | Respondent | Timepoint (Age) |
-|-------|----------------------------------|-----------|------------|-----------------|
-|       | Family Instability Questionnaire | Survey    | Mothers    | Wave 1          |
-|       |                                  |
+<table style="width:28%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Study</th>
+<th>Tasks</th>
+<th>Construct</th>
+<th>Respondent</th>
+<th>Timepoint (Age)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Family Instability Questionnaire</td>
+<td>Survey</td>
+<td>Mothers</td>
+<td>Wave 1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="http://labs.uno.edu/developmental-psychopathology/ICU.html">Callousness scale of the Inventory of Callous-Unemotional Traits</a></td>
+<td>Survey</td>
+<td>Mother</td>
+<td>Wave 1; Wave 2</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>revised MacArthur Story Stem Battery(MSSB-R)</td>
+<td></td>
+<td>Children</td>
+<td>Wave 1; Wave 2</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Prosocial Behavior scale (MacArthur Health and Behavior Questionnaire)</td>
+<td></td>
+<td>Teacher Report</td>
+<td>Wave 1; Wave 3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>School Engagement scale (MacArthur Health and Behavior Questionnaire)</td>
+<td></td>
+<td>Teacher Report</td>
+<td>Wave 1; Wave 3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Externalizing scale (MacArthur Health and Behavior Questionnaire)</td>
+<td></td>
+<td>Teacher Report</td>
+<td>Wave 1; Wave 3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Demographics</td>
+<td>Interview</td>
+<td>Mothers</td>
+<td>Wave 1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Physical Assault scales (Conflict Tactics Scale)</td>
+<td></td>
+<td>Mothers</td>
+<td>Wave 1</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Psychological Aggression (Conflict Tactics Scale)</td>
+<td></td>
+<td>Mothers</td>
+<td>Wave 1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Information and Word Reasoning subtests of the Wechsler Preschool and Primary Scale of Intelligence</td>
+<td></td>
+<td>Children</td>
+<td>Wave 2</td>
+</tr>
+</tbody>
+</table>
 
 Participants included 243 families (mother, intimate partner, and preschool child)
 
