@@ -1,7 +1,7 @@
 child\_development
 ================
 Rick Gilmore & Andrea Seisler
-2018-12-03 10:37:56
+2018-12-13 14:06:24
 
 Volume 89, Issue 4
 ------------------
@@ -84,8 +84,8 @@ Measures:
 <tr class="odd">
 <td></td>
 <td>Maternal and Paternal Education</td>
-<td>Mother</td>
 <td>Exposure Assessment</td>
+<td>Mother</td>
 <td>first-trimester, 4 Years</td>
 </tr>
 <tr class="even">
@@ -736,10 +736,11 @@ Measures: - Child - Resource Allocation Game - EEG
 
 | Study | Tasks                        | Construct               | Respondent | Timepoint (Age) |
 |-------|------------------------------|-------------------------|------------|-----------------|
-|       | Resource Allocation Game     | EEG + keyboard press    | Child      |                 |
-|       | First Person Allocation Task |                         | Child      |                 |
-|       | Pubertal Development Scale   | Survey                  | Child      |                 |
-|       | Free Rice Game               | Computer + button press | Child      |                 |
+|       | Resource Allocation Game     | EEG + keyboard press    | Child      | 8-16 years old  |
+|       | Follow up Game Questionnaire |                         |
+|       | First Person Allocation Task |                         | Child      | 8-16 years old  |
+|       | Pubertal Development Scale   | Survey                  | Child      | 8-16 years old  |
+|       | Free Rice Game               | Computer + button press | Child      | 8-16 years old  |
 |       | Demographics                 | Survey?                 | Parent     |                 |
 
 After arriving at the laboratory, parents completed demographic reporting about their child and themselves.
@@ -758,8 +759,10 @@ Participants:
 Context:
 Measures:
 
-| Study | Tasks | Construct | Respondent | Timepoint (Age) |
-|-------|-------|-----------|------------|-----------------|
+| Study | Tasks                            | Construct | Respondent | Timepoint (Age) |
+|-------|----------------------------------|-----------|------------|-----------------|
+|       | Family Instability Questionnaire | Survey    | Mothers    | Wave 1          |
+|       |                                  |
 
 Participants included 243 families (mother, intimate partner, and preschool child)
 
