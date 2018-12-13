@@ -37,7 +37,7 @@ Measures:
 ||maternal parity at birth (primiparous, multiparous)|Exposure Assessment|Mother|first-trimester|
 ||Smoking status during pregnancy|Exposure Assessment|Mother|first-trimester|
 ||Breastfeeding duration|Exposure Assessment|Mother|9 Months, 18 Months|
-||Maternal and Paternal Education|Mother|Exposure Assessment| first-trimester, 4 Years|
+||Maternal and Paternal Education|Exposure Assessment|Mother|first-trimester, 4 Years|
 ||maternal occupational status|Exposure Assessment|Mother| first-trimester, 4 Years|
 ||birth order|Exposure Assessment| Mother| first-trimester, 4 Years|
 ||maternal marital status |Exposure Assessment| Mother| first-trimester, 4 Years|
@@ -563,10 +563,11 @@ Measures:
     
 | Study | Tasks | Construct | Respondent | Timepoint (Age) |   
 |---|---|---|---|---|  
-||Resource Allocation Game|EEG + keyboard press|Child||
-||First Person Allocation Task||Child||
-||Pubertal Development Scale|Survey|Child||
-||Free Rice Game|Computer + button press|Child||
+||Resource Allocation Game|EEG + keyboard press|Child|8-16 years old|
+||Follow up Game Questionnaire|
+||First Person Allocation Task||Child|8-16 years old|
+||Pubertal Development Scale|Survey|Child|8-16 years old|
+||Free Rice Game|Computer + button press|Child|8-16 years old|
 ||Demographics|Survey?|Parent||
 
 
